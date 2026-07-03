@@ -4,6 +4,8 @@
 
 E7G-T is a geometry-first modelling language and practical calculus for making **projection, loss, reconstruction, bridge mode, and admissible use** visible.
 
+**Public site:** https://e7-g-t.vercel.app/
+
 It helps users inspect representations before relying on them: AI answers, charts, dashboards, translations, proof sketches, legal summaries, models, reports, and decision documents.
 
 ## Public landing page
