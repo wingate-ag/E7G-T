@@ -6,6 +6,10 @@ E7G-T is a geometry-first modelling language and practical calculus for making *
 
 It helps users inspect representations before relying on them: AI answers, charts, dashboards, translations, proof sketches, legal summaries, models, reports, and decision documents.
 
+## Public landing page
+
+A static public landing page is available in `site/index.html` for Vercel or any static host. It presents E7G-T as a cautious, practical framework for inspecting representations before relying on them.
+
 ---
 
 ## Current status
