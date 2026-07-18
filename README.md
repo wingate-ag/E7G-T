@@ -1,119 +1,89 @@
 # E7G-T
 
-**Extensional-Projective Order Geometry**
+**Unified Geometry-Thinking Kernel**  
+**Extensional–Projective and Inquiry-Relative Operational Phase Calculus**
 
-E7G-T is a geometry-first modelling language and practical calculus for making **projection, loss, reconstruction, bridge mode, and admissible use** visible.
+E7G-T is a geometry-first modelling language and practical calculus for making **construction, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use** visible.
 
+**Current candidate:** `v0.10-UC1`  
+**Status:** unified canonical reference candidate for practical pilot testing  
 **Public site:** https://e7-g-t.vercel.app/
 
-It helps users inspect representations before relying on them: AI answers, charts, dashboards, translations, proof sketches, legal summaries, models, reports, and decision documents.
+> What is being modelled, what does the current representation preserve or lose, which differences matter for this inquiry, and what is the next responsible move?
 
-## Public landing page
+## What changed in v0.10
 
-A static public landing page is available in `site/index.html` for Vercel or any static host. It presents E7G-T as a cautious, practical framework for inspecting representations before relying on them.
+Earlier E7G-T focused mainly on the geometry of extension and projection: how an object or source becomes a view, what the view preserves, what it loses, and whether reconstruction is justified.
 
----
+The unified kernel adds an inquiry-relative operational phase layer:
 
-## Current status
+- which non-identical configurations count as equivalent for the present purpose;
+- which change crosses a material phase boundary;
+- which transitions and paths are admissible;
+- whether operation order matters;
+- whether an abstraction hides representative-dependent outcomes;
+- whether a projected view is sufficient to support phase classification.
 
-**Version:** v0.9 RC1  
-**Status:** release-candidate research scaffold / practical modelling framework.
+The result is one modular kernel with two complementary routes:
 
-E7G-T is **not** established mathematics.  
-E7G-T is **not** empirical physics.  
-E7G-T is **not** a proof system.  
-E7G-T is **not** a Theory of Everything.  
-E7G-T is **not** a replacement for domain expertise.
-
-Its proper role is to frame, inspect, document, teach, bridge, lint, and discipline reasoning around representations.
-
----
-
-## Core question
-
-> What do I do next with this concrete object, claim, proof, model, output, observation, system, or representation?
-
-E7G-T asks:
-
-- What is the entity of concern?
-- What is the active order profile?
-- What boundary is being used?
-- What is being projected?
-- What is preserved?
-- What is lost?
-- What source or candidate source does it point toward?
-- What bridge mode is active?
-- What claim strength is justified?
-- What is the next responsible move?
-
----
+```text
+shared constitutional core
+├── extensional–projective route
+├── operational-phase route
+└── combined projection-to-phase route
+```
 
 ## Start here
 
-### 1. Kernel
+1. [Start Here](docs/START_HERE.md)
+2. [Unified Kernel v0.10-UC1](specs/E7G-T_v0.10_UC1_Unified_Geometry-Thinking_Kernel.md)
+3. [Architecture Overview](docs/ARCHITECTURE.md)
+4. [Migration from v0.9 RC1](docs/MIGRATION_FROM_v0.9.md)
+5. [Combined Representation-to-Phase Worksheet](docs/worksheets/WS-001_Representation_to_Phase_Review.md)
+6. [Unified Pilot Protocol](docs/pilots/PILOT-001_Unified_Projection_Phase_Review.md)
 
-Read the current RC1 kernel:
+## Route selection
 
-`E7G-T_Kernel_v0.9_RC1_Public_Reference_Specification.md`
+Use the **extensional–projective route** when the main question concerns construction, order-role placement, viewing, projection, preservation, loss, reconstruction, or bridge discipline.
 
-### 2. Practical worksheets
+Use the **operational-phase route** when the main question concerns operational equivalence, material phase boundaries, typed transitions, path choice, operation order, or representative dependence.
 
-Use the worksheets to test E7G-T on real material:
+Use the **combined route** when a translation, summary, dashboard, AI answer, measurement, interface, or other view is being used to infer operational status.
 
-- `E7G-T_Practical_Guide_Worksheet_PG-001_Dashboard_Projection_Loss_Review.md`
-- `E7G-T_Practical_Guide_Worksheet_PG-002_AI_Answer_Source_Return_Review.md`
+## Core integration rule
 
-### 3. Pilot protocols
+For a view `v`, projection or viewing map `π`, reconstruction fibre `Recπ(v)`, and phase criterion `Q`:
 
-Run small tests:
+```text
+PhaseCandidates_Q(v) = { [Γ]_Q | Γ ∈ Rec_π(v) }
+```
 
-- `E7G-T_Pilot_Test_001_AI_Output_Review_Protocol.md`
-- `E7G-T_Pilot_Test_002_Translation_QA_Protocol.md`
+- one supported phase candidate may permit classification;
+- several candidates require abstention, another view, or source return;
+- no admitted candidates require model, boundary, or criterion repair.
 
-### 4. Foundations book
+## Project posture
 
-The full foundations draft is available in:
+E7G-T is not established mathematics as a whole, empirical physics, a proof system, a Theory of Everything, an authority decision, or a replacement for mature domain methods.
 
-`E7G-T_Foundations_Book_Draft_0.1_MD_DOCX/`
+Its proper role is to frame, inspect, compare, classify, navigate, document, teach, bridge, lint, and route reasoning toward the next responsible move.
 
----
+## Repository status
 
-## First recommended test
+The previous v0.9 RC1 materials are retained as historical material under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
-Use the **AI Answer Source-Return worksheet** on five real AI answers.
+## Current validation priority
 
-Ask:
+Do not expand the theory merely by adding terminology. Test whether the unified kernel changes a real next move.
 
-> Did E7G-T catch a risk or clarify a next move that ordinary review missed?
+Recommended first cases:
 
----
+- AI answer whose source ambiguity spans different reliance phases;
+- translation edit that may preserve wording while changing legal or operational force;
+- dashboard or status display used to infer readiness;
+- software refactoring assessed for behavioural equivalence;
+- proof-path state classified from an incomplete interface view.
 
-## Public caution
+## Licence
 
-Do not evaluate E7G-T as a claim to finished mathematics or physics.
-
-Evaluate it as:
-
-- a modelling language;
-- a reasoning discipline;
-- a projection-loss accounting tool;
-- a claim-strength linter;
-- a practical bridge-control method;
-- an early-stage proof/path documentation concept.
-
-The correct question is not:
-
-> Has E7G-T solved reality?
-
-The correct question is:
-
-> Does E7G-T help users avoid overreading representations and make better next moves?
-
----
-
-## Closing line
-
-The source is richer than the view.  
-The view preserves.  
-The view loses.  
-Reliance begins when you know the difference.
+A project licence has not yet been finalised. Reuse should therefore be treated cautiously until an explicit licence file is added.
