@@ -7,6 +7,7 @@ E7G-T is a geometry-first modelling language and practical calculus for making *
 
 **Current candidate:** `v0.10-UC1`  
 **Status:** unified canonical reference candidate for practical pilot testing  
+**Author:** Alexander Gregory Wingate  
 **Public site:** https://e7-g-t.vercel.app/
 
 > What is being modelled, what does the current representation preserve or lose, which differences matter for this inquiry, and what is the next responsible move?
@@ -84,6 +85,23 @@ Recommended first cases:
 - software refactoring assessed for behavioural equivalence;
 - proof-path state classified from an incomplete interface view.
 
+## Author and citation
+
+E7G-T was created by **Alexander Gregory Wingate**.
+
+Citation metadata is provided in [`CITATION.cff`](CITATION.cff). GitHub's **Cite this repository** function can generate a formatted citation from that file.
+
 ## Licence
 
-A project licence has not yet been finalised. Reuse should therefore be treated cautiously until an explicit licence file is added.
+Copyright © 2026 Alexander Gregory Wingate.
+
+Except where otherwise noted, the original specifications, documentation, worksheets, pilot protocols, and other textual materials in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (**CC BY-SA 4.0**).
+
+When reusing or adapting the material:
+
+- credit **Alexander Gregory Wingate** as creator;
+- identify the work as **E7G-T** and link to this repository where reasonably practicable;
+- indicate whether changes were made; and
+- distribute adaptations under CC BY-SA 4.0 or another BY-SA-compatible licence permitted by the licence.
+
+See [`LICENSE`](LICENSE) for the complete legal terms. Third-party material, if any, remains subject to its own rights and licence notices.
