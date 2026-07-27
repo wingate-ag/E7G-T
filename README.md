@@ -9,6 +9,7 @@ E7G-T is a geometry-first modelling language and practical calculus for making *
 **Status:** unified canonical reference candidate for practical pilot testing  
 **Author:** Alexander Gregory Wingate  
 **Public site:** https://e7-g-t.vercel.app/
+**Books and practical editions:** [E7G-T Books & Tools](https://therealitybridge.press/collections/e7g-t-books-tools)
 
 > What is being modelled, what does the current representation preserve or lose, which differences matter for this inquiry, and what is the next responsible move?
 
