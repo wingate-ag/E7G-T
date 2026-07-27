@@ -37,6 +37,7 @@ shared constitutional core
 
 ## Start here
 
+0. [Free E7G-T Practical Starter Kit](publications/starter-kit/E7G-T_Practical_Starter_Kit.md)
 1. [Start Here](docs/START_HERE.md)
 2. [Unified Kernel v0.10-UC1](specs/E7G-T_v0.10_UC1_Unified_Geometry-Thinking_Kernel.md)
 3. [Architecture Overview](docs/ARCHITECTURE.md)
