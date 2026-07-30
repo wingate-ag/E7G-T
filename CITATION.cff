@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use E7G-T in research or practice, please cite it using the metadata below."
 type: software
-title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective and Inquiry-Relative Operational Phase Calculus"
-version: "0.10-UC1"
-date-released: 2026-07-18
+title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective, Inquiry-Relative Operational Phase, and Temporal Geometry Calculus"
+version: "0.11-UC1"
+date-released: 2026-07-31
 authors:
   - family-names: "Wingate"
     given-names: "Alexander Gregory"
@@ -14,19 +14,22 @@ abstract: >-
   E7G-T is a geometry-first modelling language and practical calculus
   for making construction, projection, preservation, loss,
   reconstruction, operational sameness, material boundaries,
-  transition paths, bridge mode, and admissible use visible.
+  temporal extension, histories, transition paths, bridge mode,
+  and admissible use visible.
 keywords:
   - "geometry-first modelling"
   - "projection"
   - "operational phase"
+  - "temporal geometry"
+  - "history reconstruction"
   - "reasoning"
   - "E7G-T"
 preferred-citation:
   type: generic
-  title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective and Inquiry-Relative Operational Phase Calculus"
+  title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective, Inquiry-Relative Operational Phase, and Temporal Geometry Calculus"
   authors:
     - family-names: "Wingate"
       given-names: "Alexander Gregory"
   year: 2026
-  version: "0.10-UC1"
+  version: "0.11-UC1"
   url: "https://github.com/wingate-ag/E7G-T"
