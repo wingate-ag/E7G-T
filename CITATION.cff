@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use E7G-T in research or practice, please cite it using the metadata below."
 type: software
-title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective, Inquiry-Relative Operational Phase, and Temporal Geometry Calculus"
+title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective–Phase Geometry of Configurations and Time"
 version: "0.11-UC1"
 date-released: 2026-07-31
 authors:
@@ -26,7 +26,7 @@ keywords:
   - "E7G-T"
 preferred-citation:
   type: generic
-  title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective, Inquiry-Relative Operational Phase, and Temporal Geometry Calculus"
+  title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective–Phase Geometry of Configurations and Time"
   authors:
     - family-names: "Wingate"
       given-names: "Alexander Gregory"
