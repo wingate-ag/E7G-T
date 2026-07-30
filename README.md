@@ -5,17 +5,20 @@
 
 E7G-T is a geometry-first modelling language and practical calculus for making **construction, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use** visible.
 
-**Current candidate:** `v0.10-UC1`  
-**Status:** unified canonical reference candidate for practical pilot testing  
-**Author:** Alexander Gregory Wingate  
 **Public site:** https://e7-g-t.vercel.app/
-**Books and practical editions:** [E7G-T Books & Tools](https://therealitybridge.press/collections/e7g-t-books-tools)
 
-> What is being modelled, what does the current representation preserve or lose, which differences matter for this inquiry, and what is the next responsible move?
+It helps users inspect representations before relying on them: AI answers, charts, dashboards, translations, proof sketches, legal summaries, models, reports, and decision documents.
+
+## Public landing page
+
+A static public landing page is available in `site/index.html` for Vercel or any static host. It presents E7G-T as a cautious, practical framework for inspecting representations before relying on them.
+
+---
 
 ## What changed in v0.10
 
-Earlier E7G-T focused mainly on the geometry of extension and projection: how an object or source becomes a view, what the view preserves, what it loses, and whether reconstruction is justified.
+**Version:** v0.10-UC1  
+**Status:** use-candidate research scaffold / practical modelling framework.
 
 The unified kernel adds an inquiry-relative operational phase layer:
 
@@ -37,13 +40,11 @@ shared constitutional core
 
 ## Start here
 
-0. [Free E7G-T Practical Starter Kit](publications/starter-kit/E7G-T_Practical_Starter_Kit.md)
-1. [Start Here](docs/START_HERE.md)
-2. [Unified Kernel v0.10-UC1](specs/E7G-T_v0.10_UC1_Unified_Geometry-Thinking_Kernel.md)
-3. [Architecture Overview](docs/ARCHITECTURE.md)
-4. [Migration from v0.9 RC1](docs/MIGRATION_FROM_v0.9.md)
-5. [Combined Representation-to-Phase Worksheet](docs/worksheets/WS-001_Representation_to_Phase_Review.md)
-6. [Unified Pilot Protocol](docs/pilots/PILOT-001_Unified_Projection_Phase_Review.md)
+### 1. Kernel
+
+Read the current v0.10-UC1 kernel:
+
+`E7G-T_Kernel_v0.10_UC1_Public_Reference_Specification.md`
 
 ## Route selection
 
