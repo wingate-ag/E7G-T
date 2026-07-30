@@ -1,8 +1,9 @@
 # E7G-T
 
-**Extensional-Projective Order Geometry**
+**Unified Geometry-Thinking Kernel**  
+**Extensional–Projective and Inquiry-Relative Operational Phase Calculus**
 
-E7G-T is a geometry-first modelling language and practical calculus for making **projection, loss, reconstruction, bridge mode, and admissible use** visible.
+E7G-T is a geometry-first modelling language and practical calculus for making **construction, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use** visible.
 
 **Public site:** https://e7-g-t.vercel.app/
 
@@ -14,39 +15,28 @@ A static public landing page is available in `site/index.html` for Vercel or any
 
 ---
 
-## Current status
+## What changed in v0.10
 
 **Version:** v0.10-UC1  
 **Status:** use-candidate research scaffold / practical modelling framework.
 
-E7G-T is **not** established mathematics.  
-E7G-T is **not** empirical physics.  
-E7G-T is **not** a proof system.  
-E7G-T is **not** a Theory of Everything.  
-E7G-T is **not** a replacement for domain expertise.
+The unified kernel adds an inquiry-relative operational phase layer:
 
-Its proper role is to frame, inspect, document, teach, bridge, lint, and discipline reasoning around representations.
+- which non-identical configurations count as equivalent for the present purpose;
+- which change crosses a material phase boundary;
+- which transitions and paths are admissible;
+- whether operation order matters;
+- whether an abstraction hides representative-dependent outcomes;
+- whether a projected view is sufficient to support phase classification.
 
----
+The result is one modular kernel with two complementary routes:
 
-## Core question
-
-> What do I do next with this concrete object, claim, proof, model, output, observation, system, or representation?
-
-E7G-T asks:
-
-- What is the entity of concern?
-- What is the active order profile?
-- What boundary is being used?
-- What is being projected?
-- What is preserved?
-- What is lost?
-- What source or candidate source does it point toward?
-- What bridge mode is active?
-- What claim strength is justified?
-- What is the next responsible move?
-
----
+```text
+shared constitutional core
+├── extensional–projective route
+├── operational-phase route
+└── combined projection-to-phase route
+```
 
 ## Start here
 
@@ -56,64 +46,65 @@ Read the current v0.10-UC1 kernel:
 
 `E7G-T_Kernel_v0.10_UC1_Public_Reference_Specification.md`
 
-### 2. Practical worksheets
+## Route selection
 
-Use the worksheets to test E7G-T on real material:
+Use the **extensional–projective route** when the main question concerns construction, order-role placement, viewing, projection, preservation, loss, reconstruction, or bridge discipline.
 
-- `E7G-T_Practical_Guide_Worksheet_PG-001_Dashboard_Projection_Loss_Review.md`
-- `E7G-T_Practical_Guide_Worksheet_PG-002_AI_Answer_Source_Return_Review.md`
+Use the **operational-phase route** when the main question concerns operational equivalence, material phase boundaries, typed transitions, path choice, operation order, or representative dependence.
 
-### 3. Pilot protocols
+Use the **combined route** when a translation, summary, dashboard, AI answer, measurement, interface, or other view is being used to infer operational status.
 
-Run small tests:
+## Core integration rule
 
-- `E7G-T_Pilot_Test_001_AI_Output_Review_Protocol.md`
-- `E7G-T_Pilot_Test_002_Translation_QA_Protocol.md`
+For a view `v`, projection or viewing map `π`, reconstruction fibre `Recπ(v)`, and phase criterion `Q`:
 
-### 4. Foundations book
+```text
+PhaseCandidates_Q(v) = { [Γ]_Q | Γ ∈ Rec_π(v) }
+```
 
-The full foundations draft is available in:
+- one supported phase candidate may permit classification;
+- several candidates require abstention, another view, or source return;
+- no admitted candidates require model, boundary, or criterion repair.
 
-`E7G-T_Foundations_Book_Draft_0.1_MD_DOCX/`
+## Project posture
 
----
+E7G-T is not established mathematics as a whole, empirical physics, a proof system, a Theory of Everything, an authority decision, or a replacement for mature domain methods.
 
-## First recommended test
+Its proper role is to frame, inspect, compare, classify, navigate, document, teach, bridge, lint, and route reasoning toward the next responsible move.
 
-Use the **AI Answer Source-Return worksheet** on five real AI answers.
+## Repository status
 
-Ask:
+The previous v0.9 RC1 materials are retained as historical material under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
-> Did E7G-T catch a risk or clarify a next move that ordinary review missed?
+## Current validation priority
 
----
+Do not expand the theory merely by adding terminology. Test whether the unified kernel changes a real next move.
 
-## Public caution
+Recommended first cases:
 
-Do not evaluate E7G-T as a claim to finished mathematics or physics.
+- AI answer whose source ambiguity spans different reliance phases;
+- translation edit that may preserve wording while changing legal or operational force;
+- dashboard or status display used to infer readiness;
+- software refactoring assessed for behavioural equivalence;
+- proof-path state classified from an incomplete interface view.
 
-Evaluate it as:
+## Author and citation
 
-- a modelling language;
-- a reasoning discipline;
-- a projection-loss accounting tool;
-- a claim-strength linter;
-- a practical bridge-control method;
-- an early-stage proof/path documentation concept.
+E7G-T was created by **Alexander Gregory Wingate**.
 
-The correct question is not:
+Citation metadata is provided in [`CITATION.cff`](CITATION.cff). GitHub's **Cite this repository** function can generate a formatted citation from that file.
 
-> Has E7G-T solved reality?
+## Licence
 
-The correct question is:
+Copyright © 2026 Alexander Gregory Wingate.
 
-> Does E7G-T help users avoid overreading representations and make better next moves?
+Except where otherwise noted, the original specifications, documentation, worksheets, pilot protocols, and other textual materials in this repository are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (**CC BY-SA 4.0**).
 
----
+When reusing or adapting the material:
 
-## Closing line
+- credit **Alexander Gregory Wingate** as creator;
+- identify the work as **E7G-T** and link to this repository where reasonably practicable;
+- indicate whether changes were made; and
+- distribute adaptations under CC BY-SA 4.0 or another BY-SA-compatible licence permitted by the licence.
 
-The source is richer than the view.  
-The view preserves.  
-The view loses.  
-Reliance begins when you know the difference.
+See [`LICENSE`](LICENSE) for the complete legal terms. Third-party material, if any, remains subject to its own rights and licence notices.
