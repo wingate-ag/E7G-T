@@ -4,14 +4,20 @@
 
 E7G-T is a geometry-first modelling language and practical calculus for making **projection, loss, reconstruction, bridge mode, and admissible use** visible.
 
+**Public site:** https://e7-g-t.vercel.app/
+
 It helps users inspect representations before relying on them: AI answers, charts, dashboards, translations, proof sketches, legal summaries, models, reports, and decision documents.
+
+## Public landing page
+
+A static public landing page is available in `site/index.html` for Vercel or any static host. It presents E7G-T as a cautious, practical framework for inspecting representations before relying on them.
 
 ---
 
 ## Current status
 
-**Version:** v0.9 RC1  
-**Status:** release-candidate research scaffold / practical modelling framework.
+**Version:** v0.10-UC1  
+**Status:** use-candidate research scaffold / practical modelling framework.
 
 E7G-T is **not** established mathematics.  
 E7G-T is **not** empirical physics.  
@@ -46,9 +52,9 @@ E7G-T asks:
 
 ### 1. Kernel
 
-Read the current RC1 kernel:
+Read the current v0.10-UC1 kernel:
 
-`E7G-T_Kernel_v0.9_RC1_Public_Reference_Specification.md`
+`E7G-T_Kernel_v0.10_UC1_Public_Reference_Specification.md`
 
 ### 2. Practical worksheets
 
