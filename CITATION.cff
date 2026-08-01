@@ -7,6 +7,8 @@ date-released: 2026-07-18
 authors:
   - family-names: "Wingate"
     given-names: "Alexander Gregory"
+  - family-names: "Razinkov"
+    given-names: "Oleksandr"
 license: "CC-BY-SA-4.0"
 repository-code: "https://github.com/wingate-ag/E7G-T"
 url: "https://e7-g-t.vercel.app/"
@@ -27,6 +29,8 @@ preferred-citation:
   authors:
     - family-names: "Wingate"
       given-names: "Alexander Gregory"
+    - family-names: "Razinkov"
+      given-names: "Oleksandr"
   year: 2026
   version: "0.10-UC1"
   url: "https://github.com/wingate-ag/E7G-T"
