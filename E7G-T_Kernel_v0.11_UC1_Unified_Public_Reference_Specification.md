@@ -1,24 +1,30 @@
 ---
 title: "E7G-T Unified Geometry-Thinking Kernel"
-subtitle: "Extensional–Projective and Inquiry-Relative Operational Phase Calculus"
-version: "0.10-UC1"
-date: "2026-07-18"
+subtitle: "Extensional–Projective–Phase Geometry of Configurations and Time"
+version: "0.11-UC1"
+date: "2026-07-31"
 author: "Alexander Gregory Wingate and Oleksandr Razinkov"
 copyright: "© 2026 Alexander Gregory Wingate and Oleksandr Razinkov"
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
-status: "Unified canonical reference candidate for practical pilot testing"
+status: "Unified canonical reference candidate with restored first-class temporal geometry"
 normativity: "Normative within this candidate unless explicitly marked informative"
 family_posture: "Proposed successor-integration of E7G-T v0.9 and E7GT-Φ v0.3.2"
 language_convention: "British English"
-ai_use: "Load as a modular modelling and reasoning kernel. Apply the shared constitutional core first, then use the extensional-projective route, operational-phase route, or both. Select the smallest output profile that changes the next responsible move without hiding risk."
+ai_use: "Load as a modular modelling and reasoning kernel. Apply the shared constitutional core first, then use the extensional-projective, temporal-geometry, operational-phase, or combined route. Treat time as a first-class extensional, projective, and inquiry-relative phase structure when temporal distinctions matter. Select the smallest output profile that changes the next responsible move without hiding risk."
 ---
 
 # E7G-T Unified Geometry-Thinking Kernel
 
-## Extensional–Projective and Inquiry-Relative Operational Phase Calculus
+## Extensional–Projective–Phase Geometry of Configurations and Time
 
-> **Canonical public definition.** E7G-T is a geometry-first modelling language and practical calculus for making construction, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use visible.
+**Authors:** Alexander Gregory Wingate and Oleksandr Razinkov
+
+**Copyright:** © 2026 Alexander Gregory Wingate and Oleksandr Razinkov
+
+**Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+> **Canonical public definition.** E7G-T is a geometry-first modelling language and practical calculus for making structural and temporal extension, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use visible.
 
 > **Canonical practical question.** What is being modelled, what does the current representation preserve or lose, which differences matter for this inquiry, and what is the next responsible move?
 
@@ -28,10 +34,11 @@ Capitalised **MUST**, **MUST NOT**, **SHALL**, **SHALL NOT**, **SHOULD**, **SHOU
 
 ## 0. Status, Scope, and Use Posture
 
-E7G-T v0.10-UC1 is a unified reference candidate integrating two previously distinct but complementary routes:
+E7G-T v0.11-UC1 is a unified reference candidate integrating three complementary routes:
 
 1. the **extensional–projective route**, which explains construction, order-role placement, viewing, projection, preservation, loss, transformation, reconstruction, and bridge discipline; and
-2. the **operational-phase route**, which explains inquiry-relative sameness, phase classification, material boundaries, admitted transitions, path choice, operation order, representative dependence, and abstraction stability.
+2. the **temporal-geometry route**, which applies extension, viewing, projection, reconstruction, transformation, and inquiry-relative phase classification to temporal structures themselves; and
+3. the **operational-phase route**, which explains inquiry-relative sameness, phase classification, material boundaries, admitted transitions, path choice, operation order, representative dependence, and abstraction stability.
 
 The unified kernel is:
 
@@ -59,6 +66,10 @@ E7G-T may:
 - expose hidden context or inquiry changes;
 - distinguish source from view;
 - record what a projection preserves and loses;
+- distinguish an event from an interval, a history, and a history-space;
+- expose what a temporal slice, summary, sampling, branch selection, or synchronisation preserves and loses;
+- distinguish atemporality, unboundedness, recurrence, branching, and completion;
+- classify temporal structures into inquiry-relative temporal phases;
 - show when reconstruction is ambiguous;
 - define which variations count as operationally equivalent;
 - identify phase-boundary crossings;
@@ -98,7 +109,7 @@ transition, boundary, path, source return, reliance, or stop
 A compact form is:
 
 ```text
-construct → represent → project → compare → classify → navigate → verify → rely or stop
+construct → temporally situate → represent → project → compare → classify → navigate → verify → rely or stop
 ```
 
 ---
@@ -107,10 +118,13 @@ construct → represent → project → compare → classify → navigate → ve
 
 ### 1.1 Canonical definition
 
-E7G-T models an entity through an inquiry-bounded relational configuration and then permits two complementary geometrical analyses:
+E7G-T models an entity through an inquiry-bounded relational configuration and permits three complementary geometrical analyses:
 
 - an **extensional–projective analysis** of how the configuration is constructed, transformed, viewed, projected, and reconstructed; and
+- a **temporal-geometry analysis** of how temporal localities extend into intervals, histories, history families, possibility spaces, rule spaces, and contexts, and how those structures are sliced, projected, reconstructed, transformed, and phase-classified; and
 - an **operational-phase analysis** of which admitted configurations count as equivalent, which transitions cross material boundaries, and which paths preserve required invariants.
+
+Time is not merely a label attached to a configuration or transition graph. When temporally relevant, time is itself an admitted modelling structure on which the same constitutional disciplines of extension, projection, preservation and loss, reconstruction, transformation, inquiry-relative equivalence, boundary crossing, support, and stop conditions apply.
 
 ### 1.2 Operational phase
 
@@ -157,11 +171,13 @@ modelled entity and semantic context
         ↓
 inquiry and admitted configuration descriptions
         ↓
-phase criterion and operational phase classes
+temporal geometry where temporally relevant
+        ↓
+configuration and temporal phase criteria
         ↓
 typed transitions, paths, boundaries, and views
         ↓
-optional D0–D7 and temporal compatibility lenses
+optional D0–D7 compatibility lens and derived temporal-regime profile
 ```
 
 ---
@@ -198,31 +214,54 @@ Use the operational-phase route when at least one of the following is true:
 - an operation is intended to apply uniformly to every configuration in a phase;
 - a local trade-off is claimed to be unavoidable.
 
-### 2.3 Combined applicability
+### 2.3 Temporal-geometry applicability
 
-Use both routes when:
+Use the temporal-geometry route when at least one of the following is true:
+
+- an event, interval, sequence, history, history family, or temporal possibility space is the entity of concern;
+- a temporal point, slice, summary, sample, branch, window, synchronisation, or final state is being used to represent a richer temporal source;
+- ordering, duration, simultaneity, recurrence, branching, persistence, deadline, completion, or temporal frame affects the claim;
+- several histories may produce the same observed result;
+- an apparent temporal whole may be only one branch or one bounded window;
+- temporal reconstruction, temporal preservation or loss, or temporal phase classification affects the next move;
+- the rules, clocks, granularity, or frame by which time is described change;
+- atemporality, unboundedness, recurrence, and completion need to be distinguished.
+
+The temporal-geometry route does not require metric clock time. A partially ordered event set, discrete revision history, branching scenario family, cyclic process, or declared atemporal object may be the appropriate temporal carrier.
+
+### 2.4 Combined applicability
+
+Use two or more routes together when:
 
 - a projected, summarised, translated, measured, or dashboard view is used to classify operational status;
+- a temporal slice, final state, trend, forecast, deadline marker, or history summary is used to classify configuration or temporal status;
 - source ambiguity may span several operational phases;
+- temporal reconstruction ambiguity may span several temporal phases;
 - a transformation is evaluated both for preserved structure and phase-boundary effect;
 - a phase-level decision relies on a lossy representation;
+- a configuration projection and a temporal projection may not commute;
 - a workflow path may propagate a projection or reconstruction error into a material phase change.
 
-### 2.4 Routing table
+### 2.5 Routing table
 
 | Primary question | Preferred route |
 | --- | --- |
 | What is being constructed or projected? | Extensional–projective |
 | What does the representation preserve or lose? | Extensional–projective |
 | Which source configurations could explain the view? | Extensional–projective, with reconstruction-fibre semantics |
+| What temporal structure does an event, interval, history, or scenario represent? | Temporal geometry |
+| What does a temporal slice, sample, branch selection, or summary preserve or lose? | Temporal geometry |
+| Which histories could explain the temporal view? | Temporal geometry, with temporal reconstruction-fibre semantics |
+| Which temporal structures count as equivalent for this inquiry? | Temporal phase |
 | Which different configurations count as operationally equivalent? | Operational phase |
 | Which change crosses a material boundary? | Operational phase |
 | Which path preserves protected invariants? | Operational phase |
 | Can one operation be applied to all phase representatives? | Operational phase |
 | Does a projected view support a phase classification? | Combined |
+| Does a final state or temporal summary support both configuration and temporal classification? | Combined |
 | Is a bridge merely interpretive or empirically testable? | Extensional–projective bridge discipline, optionally combined |
 
-### 2.5 Canonical non-use rule
+### 2.6 Canonical non-use rule
 
 Do not invoke E7G-T merely to create formal-looking prose.
 
@@ -251,13 +290,25 @@ A      = admissibility predicate for configurations
 Q      = phase criterion under C and I
 ≈Q     = phase-equivalence relation under Q
 φ      = operational phase class [Γ]Q
+Θ      = admitted temporal geometry for E under C and I
+QΘ     = temporal-phase criterion under C and I
+≈QΘ    = temporal-phase equivalence under QΘ
+φΘ     = temporal phase class [θ]QΘ
+≺Θ     = declared temporal precedence or causal-order relation
+ExtΘ   = declared temporal extension relation or construction family
+ΠΘ     = declared temporal viewing and projection family
+RecΘ   = temporal reconstruction fibre
+H      = admitted histories or trajectories
+KΘ     = optional clock or coordinate family
+RΘ     = temporal evolution, recurrence, synchronisation, or frame rules
 λ      = typed change label
 Tλ     = admitted configuration-level transition relation
 π      = modelled-entity-preserving viewing or projection
 Recπ   = reconstruction fibre under π
 β      = bridge across contexts, inquiries, criteria, domains, or formalisms
 LD     = optional D0–D7 compatibility lens
-LT     = optional temporal profile or derived temporal motif
+LΘD    = optional TD0–TD7 temporal order-role lens
+LTR    = derived temporal-regime profile
 ```
 
 Let:
@@ -278,7 +329,7 @@ qQ(Γ) = [Γ]Q
 The unified local kernel structure is:
 
 ```text
-KU(E,C,I,Q) = ⟨Confadm, Λ, T, ≈Q, Π, J, B, S⟩
+KU(E,C,I,Q,QΘ) = ⟨Confadm, Λ, T, ≈Q, Π, Θ, J, B, S⟩
 ```
 
 where:
@@ -286,11 +337,12 @@ where:
 - `Λ` is the family of typed change labels;
 - `T` is the labelled admitted transition relation;
 - `Π` is the declared viewing family;
+- `Θ` is the first-class temporal subkernel where temporal distinctions are relevant;
 - `J` is the declared interface and gluing discipline;
 - `B` is the boundary discipline;
 - `S` is the support and evidence discipline.
 
-This notation records a modelling lens. It does not make the modelled entity a graph, quotient object, state machine, manifold, category, physical phase space, or literal higher-dimensional structure.
+This notation records a modelling lens. It does not make the modelled entity a graph, quotient object, state machine, manifold, category, physical phase space, or literal higher-dimensional structure. The temporal subkernel does not claim that physical reality has multiple literal time dimensions.
 
 ### 3.2 Shared envelope
 
@@ -306,6 +358,7 @@ E7Envelope:
   admittedConfigurationPredicateRef:
   routesUsed:
     - extensionalProjective
+    - temporalGeometry
     - operationalPhase
   admissibleUse:
   nonAdmissibleUse:
@@ -468,7 +521,7 @@ Use qualified terms for:
 
 ## 4. Boundary Discipline
 
-The unified kernel distinguishes three boundaries that MUST NOT be silently collapsed.
+The unified kernel distinguishes three boundary kinds that MUST NOT be silently collapsed. Where temporal geometry is active, the same distinctions apply to the temporal carrier.
 
 ### 4.1 Model boundary
 
@@ -521,9 +574,17 @@ A change may:
 - alter the model boundary without changing the entity;
 - change the entity while a report still displays the old boundary.
 
+For temporal geometry, distinguish:
+
+- the **temporal model boundary** — which events, intervals, histories, branches, clocks, or frames are included;
+- the **temporal admissibility boundary** — which temporal descriptions satisfy the declared typing, evidence, and validity conditions;
+- the **temporal phase boundary** — which admitted temporal descriptions are non-equivalent under `QΘ`.
+
+A history may remain within the temporal model boundary while crossing a temporal phase boundary, or leave the admitted temporal family without entering another classified temporal phase.
+
 ---
 
-## 5. D0–D7 Order-Role and Temporal Lenses
+## 5. D0–D7 Order Roles and First-Class Temporal Geometry
 
 ### 5.1 Status of D0–D7
 
@@ -562,7 +623,259 @@ DRoleProfile:
 
 D7 is not identical to semantic context or inquiry. It records context-like participation inside an optional order-role interpretation.
 
-### 5.4 Temporal declarations and derived motifs
+### 5.4 Independence of structural and temporal order
+
+The D-role profile and temporal-order profile are independent coordinates of the analysis.
+
+```text
+Placement(X) = ⟨LD(X), LΘD(X), C, I⟩
+```
+
+One D2 document may be:
+
+- a single snapshot at `TD0`;
+- a version history across `TD1`;
+- one member of several alternative revision histories across `TD2`.
+
+One D3 body may be described at one event, across one life history, or across a family of possible histories. A higher structural D-role does not imply a higher temporal order, and a higher temporal order does not imply a higher structural D-role.
+
+### 5.5 Temporal subkernel
+
+When temporal distinctions affect the claim or next move, the analysis MUST declare or inherit a temporal subkernel:
+
+```text
+Θ(E,C,I,QΘ)
+  = ⟨Tempadm, ExtΘ, ≺Θ, ΠΘ, ≈QΘ, ΛΘ, H, KΘ, RΘ, BΘ, SΘ⟩
+```
+
+where:
+
+- `Tempadm` is the admitted family of temporal descriptions;
+- `ExtΘ` is temporal extension or temporal construction;
+- `≺Θ` is the declared precedence, causal-order, or other temporal-order relation;
+- `ΠΘ` is the family of temporal views and projections;
+- `≈QΘ` is inquiry-relative temporal-phase equivalence;
+- `ΛΘ` is the family of admitted temporal change labels;
+- `H` is the admitted family of histories, trajectories, or history systems;
+- `KΘ` is an OPTIONAL family of clocks or temporal coordinates;
+- `RΘ` is the family of evolution, branching, recurrence, synchronisation, persistence, or frame rules;
+- `BΘ` is the temporal boundary discipline;
+- `SΘ` is the support and evidence discipline for temporal claims.
+
+`Θ` may be minimal. A two-version document comparison may require only an ordered pair and a declared projection. A distributed system may require partial order, clocks, synchronisation rules, and several histories.
+
+### 5.6 TD0–TD7 temporal order-role ladder
+
+TD0–TD7 are modelling-order roles for temporal extension. They do not assert eight physical dimensions of time.
+
+| Temporal role | Geometric intuition | Unified temporal reading |
+| --- | --- | --- |
+| **TD0** | temporal point/locality | event, instant, unresolved now, dated state, local occurrence |
+| **TD1** | temporal line/extension | interval, directed sequence, duration, trajectory, one history |
+| **TD2** | temporal surface | related or alternative timelines; a branch, scenario, observer, or version parameter across progression |
+| **TD3** | temporal body | organised history-space containing interacting, coupled, or causally related families of histories |
+| **TD4** | temporal world-history | a bounded evolving whole or complete system history under the inquiry |
+| **TD5** | temporal variation space | possible futures, counterfactual histories, forecasts, branch families, uncertainty over histories |
+| **TD6** | temporal transformation space | clocks, evolution laws, recurrence rules, synchronisation rules, branch-generation rules, temporal operators |
+| **TD7** | temporal context | frame in which ordering, simultaneity, granularity, completion, unboundedness, and admissible temporal claims are interpreted |
+
+The ladder describes richer temporal structure, not a universal ontological sequence. A use MAY activate several roles simultaneously.
+
+### 5.7 Temporal point, line, surface, and higher extension
+
+A temporal locality may be represented by an event or indexed configuration:
+
+```text
+Γ(t0)
+```
+
+A temporal line may be represented by a history:
+
+```text
+h : J → Confadm
+```
+
+where `J` is an admitted ordered index set. `J` may be discrete, continuous, partially ordered, cyclically indexed, or domain-specific. No real-number clock is required by default.
+
+A temporal surface may be represented by a family of histories:
+
+```text
+Γ : J × A → Confadm
+Γ(t, α)
+```
+
+where `t ∈ J` locates a configuration along a history and `α ∈ A` identifies a branch, scenario, observer, version line, model, or alternative history.
+
+Higher temporal roles organise relations, transformations, or possibility structures among such histories. This notation is a formal-compatibility option, not a claim that physical reality literally has two or more independent time axes.
+
+### 5.8 Temporal extension
+
+Temporal extension constructs a richer temporal structure from declared components:
+
+```text
+θ ↑Θ n
+```
+
+Examples include:
+
+- event → interval;
+- ordered events → history;
+- one history → branching or comparative history family;
+- history family → interacting history system;
+- observed histories → possibility or counterfactual space;
+- temporal structures → rule or context account.
+
+Extension MUST declare:
+
+- the temporal carrier;
+- the construction or inclusion relation;
+- order or compatibility constraints;
+- temporal boundary;
+- unresolved gaps;
+- whether the result is observed, stipulated, inferred, simulated, or merely possible.
+
+Temporal extension is not projection and does not prove that the extended structure exists outside the declared model.
+
+### 5.9 Temporal viewing and projection
+
+A temporal view preserves the temporal entity reference while changing access or representation:
+
+```text
+vΘ : θ ↦ vΘ(θ)
+```
+
+A temporal projection renders a reduced temporal view:
+
+```text
+πΘ^{n→k}(θ) = yΘ,  k < n
+```
+
+Common temporal projections include:
+
+- selecting one event from an interval or history;
+- selecting one interval or window from a longer history;
+- selecting one branch from a history family;
+- reducing a history to its initial state, final state, milestone set, trend, average, or summary;
+- sampling a continuous or dense process;
+- aggregating several clocks or sequences into one timeline;
+- forgetting duration while preserving order;
+- forgetting order while preserving event membership;
+- collapsing alternative histories into one forecast or published outcome;
+- presenting the current document while hiding its revision history.
+
+Every consequential temporal projection MUST state:
+
+```text
+preservesΘ: PΘ
+losesΘ: LΘ
+```
+
+Temporal loss may include order, duration, simultaneity assumptions, intermediate states, abandoned branches, recurrence evidence, causal dependencies, clock uncertainty, or the difference between observed and counterfactual history.
+
+### 5.10 Temporal reconstruction fibre
+
+Temporal reconstruction is set-valued unless uniqueness is established:
+
+```text
+RecΘ,π(yΘ)
+  = { θ ∈ Tempadm | πΘ(θ) ≈VΘ yΘ }
+```
+
+The same final state, event record, trend, or history summary may be compatible with several histories. A temporal projection is not a temporal reconstruction.
+
+Temporal source return is required when the compatible temporal sources differ in a way material to the inquiry, including temporal phase, deadline status, causation, audit path, recurrence, synchronisation, or admissible use.
+
+### 5.11 Inquiry-relative temporal phase
+
+A temporal phase is an inquiry-relative equivalence class of admitted temporal descriptions:
+
+```text
+qQΘ : Tempadm → Tempadm / ≈QΘ
+qQΘ(θ) = [θ]QΘ
+```
+
+`≈QΘ` MUST be reflexive, symmetric, and transitive over the admitted temporal family.
+
+Two non-identical histories may be in the same temporal phase when they preserve the temporal properties required for the inquiry. Examples include:
+
+- different routes that reach the required result before the same deadline;
+- histories with different local steps but the same protected precedence constraints;
+- cyclic processes with different starting points but the same recurrence structure;
+- revision histories that differ in wording edits but preserve the same required review and approval sequence.
+
+They may be in different temporal phases when:
+
+- one meets a deadline and the other does not;
+- one contains the required review path and the other does not;
+- one is recurrent and the other terminates;
+- one preserves causal or dependency order and the other reverses it;
+- one is complete under the declared closure criterion and the other has unresolved required successors.
+
+A temporal phase is not merely a stage label. It is an equivalence class under a pinned temporal criterion and edition.
+
+### 5.12 Temporal phase boundary and temporal phase candidates
+
+A temporal phase boundary is crossed by an admitted temporal change when:
+
+```text
+TemporalBoundaryCrossQΘ(θ —λΘ→ θ′)
+  iff  θ ≉QΘ θ′
+```
+
+For a temporal view `yΘ`, define:
+
+```text
+TemporalPhaseCandidatesQΘ(yΘ)
+  = { [θ]QΘ | θ ∈ RecΘ,π(yΘ) }
+```
+
+A temporal view supports unique temporal-phase classification only when this set contains one supported candidate under the declared admission, evidence, and validity conditions. A single candidate phase does not prove a unique history.
+
+### 5.13 Histories, order, clocks, and recurrence
+
+A history is a configuration-indexing map or equivalent domain representation:
+
+```text
+h : J → Confadm
+```
+
+When `i ≺J j`, the declared semantics MUST state whether this means sequence, precedence, causation, dependency, clock order, or another relation. These meanings MUST NOT be silently interchanged.
+
+An OPTIONAL clock is a map:
+
+```text
+κ : Events → K
+```
+
+where `K` is a declared coordinate or value domain. Clock equality establishes simultaneity only relative to that clock and synchronisation model.
+
+Useful derived predicates include:
+
+```text
+BeforeΘ(a,b)       iff a ≺Θ b
+Simultaneousκ(a,b) iff κ(a) = κ(b)
+RecursQΘ(h,i,j)    iff i ≺J j and h(i) ≈QΘ h(j)
+```
+
+Completion MUST be defined by a closure or stop criterion. It is not inferred merely from the absence of visible later events.
+
+### 5.14 Atemporality, unboundedness, recurrence, and completion
+
+These properties are distinct:
+
+- **atemporal / timeless (`⊥Θ`)** — temporal ordering is inapplicable under the declared inquiry;
+- **unbounded (`∞Θ`)** — the admitted temporal extent has no declared finite upper bound, lower bound, or both;
+- **cyclic or recurrent** — a state, configuration phase, or temporal phase recurs under a declared criterion;
+- **completed or closed** — a bounded region satisfies a declared completion or closure criterion;
+- **indefinite or unknown** — the available account does not establish a bound or completion.
+
+`∞Θ` is a property of extent, not an additional TD order. `⊥Θ` is an applicability status, not the highest temporal order. A cycle may be finite, an unbounded line need not recur, and a completed history need not be timeless.
+
+The word **eternal** MUST be qualified as unbounded duration, recurrence without declared terminal bound, atemporality, or another explicit meaning.
+
+### 5.15 Derived temporal-regime profile
+
+The temporal-regime vocabulary is retained as a derived, non-exclusive profile of `Θ`. It is not the temporal calculus itself.
 
 The kernel distinguishes:
 
@@ -576,19 +889,50 @@ from:
 DerivedTransitionMotif
 ```
 
-A declared profile states how time is being treated. A derived motif states what the admitted transition structure actually exhibits.
+A declared profile states how time is being treated. A derived motif states what the admitted temporal and transition structure actually exhibits.
 
-| Regime | Declared profile | Possible derived motif |
+| Regime | Derived condition |
 | --- | --- | --- |
-| **TR0** | atemporal or no temporal orientation | no direction imposed |
-| **TR1** | local ordered sequence | locally directed path |
-| **TR2** | coordinated time | synchronisation among paths |
-| **TR3** | branching time | branching neighbourhood or scenario family |
-| **TR4** | cyclic or recurring time | loop or recurrent path |
-| **TR5** | meta-time or time about time | changes to transition rules, criteria, clocks, or models |
-| **TR6** | declared completion or closure | terminal or closed region under a criterion and stop condition |
+| **TR0** | temporal order is declared inapplicable for the inquiry |
+| **TR1** | a local directed order, interval, sequence, or history is present |
+| **TR2** | two or more histories or clocks have an explicit synchronisation or coordination relation |
+| **TR3** | an admitted event or configuration has several alternative successors, or a declared scenario/history family is present |
+| **TR4** | exact or criterion-relative recurrence is witnessed |
+| **TR5** | clocks, temporal criteria, transition rules, evolution rules, granularity, or temporal frames themselves change |
+| **TR6** | a terminal, completed, or closed region is established under an explicit criterion and stop condition |
 
-A temporal label alone does not prove the corresponding transition structure.
+A temporal label alone does not prove the corresponding structure. Several regimes may apply simultaneously; for example, a branching history family may also contain synchronised and recurrent substructures.
+
+### 5.16 Coupling configuration and temporal geometry
+
+A temporally situated configuration may be written:
+
+```text
+Γ[d, θ] / C ; I
+```
+
+or, for an indexed history:
+
+```text
+Γ : J → Confadm
+```
+
+Configuration and temporal projections are distinct and need not commute:
+
+```text
+πΓ ∘ πΘ  ≠  πΘ ∘ πΓ
+```
+
+For example, projecting each revision into a plain-text view and then summarising the history may differ materially from first selecting the final rich document and then projecting it to plain text.
+
+When a single view is used to infer both configuration and temporal status, define the joint candidate set:
+
+```text
+JointPhaseCandidatesQ,QΘ(v)
+  = { ([Γ]Q, [θ]QΘ) | (Γ,θ) is admitted and compatible with v }
+```
+
+If the joint candidates span several configuration phases or temporal phases material to the intended use, the analysis MUST abstain, obtain another view, return to source or history, or weaken the claim.
 
 ---
 
@@ -596,11 +940,13 @@ A temporal label alone does not prove the corresponding transition structure.
 
 ### 6.1 Placement
 
-Declare the entity’s modelling role, temporal profile, semantic context, and inquiry.
+Declare the entity’s modelling role, temporal order where relevant, derived temporal regimes where established, semantic context, and inquiry.
 
 ```text
-X : Dn @ TRi / C ; I
+X : Dn [Θ: TDm; TR: {TRi...}] / C ; I
 ```
+
+The temporal component MAY be omitted when time is immaterial or declared inapplicable. Legacy `X : Dn @ TRi / C ; I` notation remains readable but treats `TRi` only as a declared or derived regime, not as a substitute for temporal geometry.
 
 This is a modelling placement, not a formal type judgement unless a formal type substrate is explicitly defined.
 
@@ -647,6 +993,8 @@ SC,I^s(X)
 ```
 
 Slice selection MUST state what is selected and what remains outside the slice when that omission matters.
+
+A temporal slice is a temporal viewing and SHOULD use `SΘ` or `πΘ` when temporal preservation, loss, or reconstruction matters.
 
 ### 6.6 View and project
 
@@ -731,7 +1079,7 @@ Stop(reason)
 
 Bridge mode MUST be declared before claim strength is raised across domains, contexts, or substrates.
 
-### 6.12 Ten primitive practical moves
+### 6.12 Eleven primitive practical moves
 
 | Move | Question answered |
 | --- | --- |
@@ -739,6 +1087,7 @@ Bridge mode MUST be declared before claim strength is raised across domains, con
 | Bound | What makes this the current object rather than an unbounded blur? |
 | Incide | Which typed relations matter? |
 | Extend | What richer construction is being formed? |
+| Temporally situate | Is this an event, interval, history, history family, temporal rule space, or atemporal object, and what temporal projection is in use? |
 | Slice | Which local view is selected? |
 | Project | What reduced or lower-order view is produced? |
 | Preserve/Lose | What survives and what disappears? |
@@ -753,14 +1102,15 @@ E7-EP Derivation:
   1. Entity
   2. Semantic context and inquiry
   3. Placement and boundary
-  4. Extension or construction account
-  5. Viewing or projection account
-  6. Typed transformation and transformation class
-  7. Preserved structure
-  8. Lost, hidden, or uncertain structure
-  9. Reconstruction status
-  10. Bridge mode
-  11. Next admissible move or stop
+  4. Temporal geometry where temporally material
+  5. Extension or construction account
+  6. Viewing or projection account
+  7. Typed transformation and transformation class
+  8. Preserved structure
+  9. Lost, hidden, or uncertain structure
+  10. Configuration and temporal reconstruction status
+  11. Bridge mode
+  12. Next admissible move or stop
 ```
 
 ---
@@ -776,9 +1126,12 @@ Every arrow is typed. Arrow shape alone creates no claim about world change, met
 | `worldTransformation` | the modelled entity or its state |
 | `configurationRevision` | the configuration description |
 | `viewing` | selected or represented structure while preserving the entity reference |
+| `temporalViewing` | a temporal slice, branch selection, sampling, aggregation, or other temporal projection |
 | `retargeting` | the modelled-entity reference |
 | `reframing` | semantic context, inquiry, criterion, or criterion edition |
+| `temporalReframing` | temporal order, clock, granularity, temporal criterion, temporal boundary, or frame |
 | `classification` | the assigned phase reference or classification report |
+| `temporalClassification` | the assigned temporal-phase reference or temporal-regime report |
 | `observationUpdate` | evidence-bearing assertions in the configuration description |
 | `composition` | a larger configuration formed through declared interfaces |
 | `decomposition` | a selected subconfiguration or interface view |
@@ -1202,7 +1555,7 @@ ReframingRecord:
 
 ---
 
-## 9. Combined Projection-to-Phase Calculus
+## 9. Combined Configuration-and-Temporal Projection-to-Phase Calculus
 
 This section is the principal unification layer.
 
@@ -1338,23 +1691,81 @@ Source return is required when:
 E7-Combined Derivation:
   1. Entity, semantic context, inquiry, and boundary
   2. Admitted configuration family
-  3. Source configuration or available view
-  4. Viewing/projection declaration
-  5. Preserved and lost structure
-  6. Reconstruction fibre
-  7. Phase criterion and edition
-  8. PhaseCandidatesQ(view)
-  9. Phase-view compatibility
-  10. Typed change or path, if any
-  11. Boundary and representative-dependence status
-  12. Support basis and support status
-  13. Admissible use
-  14. Source return, next move, or stop
+  3. Temporal carrier and temporal boundary where relevant
+  4. Source configuration, temporal source, or available view
+  5. Configuration and temporal viewing/projection declarations
+  6. Structurally and temporally preserved and lost information
+  7. Configuration and temporal reconstruction fibres
+  8. Configuration and temporal phase criteria and editions
+  9. PhaseCandidatesQ(view), TemporalPhaseCandidatesQΘ(view), or joint candidates
+  10. Configuration-phase and temporal-phase view compatibility
+  11. Typed change or path, if any
+  12. Boundary and representative-dependence status
+  13. Support basis and support status
+  14. Admissible use
+  15. Source/history return, next move, or stop
 ```
 
 ### 9.10 Combined use law
 
 > No operational phase may be inferred from a view more strongly than the view’s preserved structure, reconstruction fibre, phase compatibility, and weakest support point allow.
+
+### 9.11 Temporal-view compatibility
+
+A temporal viewing descends to a temporal-phase map only when:
+
+```text
+θ ≈QΘ θ′  ⇒  πΘ(θ) ≈VΘ πΘ(θ′)
+```
+
+If this is not established, the temporal view remains representative-dependent and MUST NOT be treated as a temporal-phase invariant.
+
+### 9.12 Temporal phase-spread
+
+For:
+
+```text
+TemporalPhaseCandidatesQΘ(vΘ)
+  = { [θ]QΘ | θ ∈ RecΘ,π(vΘ) }
+```
+
+the same determinate, narrowing, spanning, incompatible, and undetermined postures apply as for configuration phase. A final state may determine the current configuration phase while leaving the temporal phase indeterminate because compliant, non-compliant, audited, unaudited, timely, and late histories can end in the same visible state.
+
+### 9.13 Joint configuration–temporal inference
+
+Let a view `v` be compatible with admitted configuration–temporal pairs `(Γ,θ)`. Define:
+
+```text
+JointRec(v)
+  = { (Γ,θ) | (Γ,θ) is admitted and compatible with v }
+
+JointPhaseCandidatesQ,QΘ(v)
+  = { ([Γ]Q,[θ]QΘ) | (Γ,θ) ∈ JointRec(v) }
+```
+
+Joint classification is determinate only when all candidate pairs agree on every configuration and temporal phase component material to the intended use.
+
+### 9.14 Non-commuting structural and temporal projections
+
+When both configuration and temporal reduction occur, the analysis SHOULD test:
+
+```text
+πΓ(πΘ(Γ,θ))  ?=  πΘ(πΓ(Γ,θ))
+```
+
+Possible results are:
+
+```text
+commutesStrictly
+commutesUpToConfigurationPhase
+commutesUpToTemporalPhase
+commutesUpToJointPhase
+failsToCommute
+undetermined
+notApplicable
+```
+
+Failure to commute is material when the order of summarising, sampling, selecting a branch, translating, redacting, aggregating, or otherwise projecting changes the supported classification or next move.
 
 ---
 
@@ -1449,8 +1860,9 @@ Use for immediate orientation, caution, or local repair.
 ```text
 E7-Line:
 For <purpose>, <entity or view> is treated as <role or configuration> under <context and inquiry>.
+Temporal posture: <TD role, temporal projection, atemporal, or not material>.
 Protected condition: <condition or not applicable>.
-Assessment: <projection / same phase / different phase / undetermined / not applicable>.
+Assessment: <projection / same phase / different phase / same temporal phase / different temporal phase / joint phase spread / undetermined / not applicable>.
 Support: <basis and status where material>.
 Next move: <action>.
 Blocked overread: <one phrase>.
@@ -1478,6 +1890,7 @@ E7Check:
   operationalBoundary:
   routesUsed:
     - extensionalProjective
+    - temporalGeometry
     - operationalPhase
 
   assessmentTarget:
@@ -1494,6 +1907,25 @@ E7Check:
 
   protectedConditions: []
   toleratedDifferences: []
+
+  temporalGeometry:
+    applicability: active | inapplicable | immaterial | undetermined
+    temporalOrderRoles: []
+    temporalCarrierRef:
+    temporalBoundaryRef:
+    orderOrCausalityRef:
+    clockOrCoordinateRefs: []
+    historyRefs: []
+    temporalProjectionRef:
+    temporallyPreserved: []
+    temporallyHiddenOrLost: []
+    temporalReconstructionStatus: notClaimed | unique | setValued | underdetermined | incompatible
+    temporalPhaseCriterionRef:
+    temporalPhaseCriterionEdition:
+    temporalPhaseCandidateRefs: []
+    temporalPhaseInformationPosture: notApplicable | phaseDeterminate | phaseNarrowing | phaseSpanning | phaseIncompatible | undetermined
+    derivedRegimes: []
+    extentStatus: bounded | upperUnbounded | lowerUnbounded | biUnbounded | atemporal | indefinite | unknown
 
   projection:
     preserved: []
@@ -1565,8 +1997,33 @@ E7Analysis:
 
   compatibilityLenses:
     dRoleProfileRef:
-    declaredTemporalProfileRef:
-    derivedTemporalMotifRef:
+    temporalOrderRoleProfileRef:
+    derivedTemporalRegimeProfileRef:
+
+  temporalGeometryAccount:
+    applicability:
+    temporalSubkernelRef:
+    temporalCarrierRef:
+    temporalBoundaryRef:
+    temporalOrderRoles:
+    precedenceOrCausalityRef:
+    clockOrCoordinateRefs:
+    historyRefs:
+    temporalExtensionPath:
+    temporalViewingRefs:
+    temporalProjectionPath:
+    temporallyPreserved:
+    temporallyHiddenOrLost:
+    temporalReconstructionFibreRef:
+    temporalSourceReturnCondition:
+    temporalPhaseCriterionRef:
+    temporalPhaseCriterionEdition:
+    temporalPhaseCandidateRefs:
+    temporalPhaseInformationPosture:
+    derivedTemporalRegimes:
+    extentStatus:
+    recurrenceWitnessRefs:
+    completionCriterionRef:
 
   extensionalProjectiveAccount:
     placement:
@@ -1611,6 +2068,13 @@ E7Analysis:
     phaseInformationPosture:
     uniquenessStatus:
     sourceReturnRequired: true | false | undetermined
+
+  jointConfigurationTemporalAccount:
+    jointReconstructionFibreRef:
+    jointPhaseCandidateRefs:
+    jointPhaseInformationPosture:
+    structuralTemporalCommuteCheckRef:
+    historyReturnRequired: true | false | undetermined
 
   localGeometry:
     stableAdjacentPhases:
@@ -1663,6 +2127,14 @@ FormalisationCard:
   admittedConfigurationPredicate:
   equivalenceDefinition:
   transitionStructure:
+  temporalCarrier:
+  temporalExtensionStructure:
+  temporalOrderOrCausalityStructure:
+  temporalViewingStructure:
+  temporalReconstructionFibreSemantics:
+  temporalEquivalenceDefinition:
+  temporalTransitionAndRecurrenceStructure:
+  clockOrCoordinateStructure:
   compositionStructure:
   viewingStructure:
   reconstructionFibreSemantics:
@@ -1712,6 +2184,13 @@ ProofOfPathCard:
   boundary:
   definitions:
   transformations:
+  temporalCarrier:
+  temporalOrderAndClockRefs:
+  temporalExtensionEvents:
+  temporalProjectionEvents:
+  temporalReconstructionEvents:
+  temporalPhaseClassificationEvents:
+  temporalBoundaryEvents:
   projectionEvents:
   phaseClassificationEvents:
   boundaryEvents:
@@ -1869,6 +2348,30 @@ An unavoidable trade-off requires a named mechanism and declared scale. Poor imp
 
 **Law 32 — Stronger tools govern stronger claims.** E7G-T frames and inspects stronger methods; it does not bypass them.
 
+### 13.6 Temporal-geometry laws
+
+**Law 33 — Time is a first-class modelling carrier.** When temporal distinctions affect the claim, time MUST be modelled through temporal structure rather than supplied only as a label on configurations or arrows.
+
+**Law 34 — Structural and temporal order are independent.** A D-role does not determine a TD-role, and a TD-role does not determine a D-role.
+
+**Law 35 — Temporal extension is not elapsed clock time.** Extending an event into an interval, history, history family, rule space, or context does not by itself assign a metric duration.
+
+**Law 36 — Temporal projection is not temporal reconstruction.** An event, final state, trend, sample, branch, or history summary does not uniquely determine its temporal source.
+
+**Law 37 — Endpoint identity is not history identity.** Histories with the same visible endpoint may differ in protected order, duration, audit path, causation, recurrence, deadline status, or temporal phase.
+
+**Law 38 — Temporal phase is inquiry-relative equivalence.** A temporal phase is not a synonym for timestamp, lifecycle stage, named period, or exact history.
+
+**Law 39 — Atemporality, unboundedness, recurrence, and completion remain distinct.** None of these properties silently entails another.
+
+**Law 40 — Clocks are declared maps.** A clock supplies temporal coordinates under a model; it does not by itself establish absolute order, simultaneity, causation, or ontology.
+
+**Law 41 — Temporal regimes are derived profiles.** TR0–TR6 summarise established temporal structure and do not replace its carrier, relations, projections, criteria, or witnesses.
+
+**Law 42 — Structural and temporal projections need not commute.** Their order MUST be checked when it can change preservation, loss, classification, or the next move.
+
+**Law 43 — Joint inference is fibre-bounded.** A view cannot support a stronger configuration–temporal classification than its joint reconstruction fibre permits.
+
 ---
 
 ## 14. Failure Modes, Anti-Patterns, and Linting
@@ -1884,6 +2387,17 @@ Check for:
 - undeclared semantic context;
 - undeclared inquiry;
 - missing or overloaded temporal declaration;
+- temporal regime used without temporal carrier or witness;
+- structural D-role silently treated as temporal order;
+- temporal point, line, surface, or higher role treated as a literal physical dimension without bridge support;
+- final state mistaken for its history;
+- one selected branch mistaken for the history family;
+- temporal projection mistaken for temporal reconstruction;
+- temporal phase without criterion or criterion edition;
+- atemporality confused with unboundedness, recurrence, or completion;
+- clock equality mistaken for absolute simultaneity;
+- precedence, causation, dependency, and clock order silently interchanged;
+- structural and temporal projection order left unchecked where material;
 - projection-loss denial;
 - slice mistaken for whole;
 - invariant without transformation class;
@@ -1934,6 +2448,13 @@ A consequential E7G-T analysis SHOULD pass the following checks:
 [ ] Unknown or contested positions are visible.
 [ ] Every load-bearing arrow has a change kind.
 [ ] Every projection states preservation and loss.
+[ ] Every material temporal account states carrier, boundary, and order-role.
+[ ] Every temporal projection states temporal preservation and loss.
+[ ] Temporal reconstruction is set-valued unless uniqueness is justified.
+[ ] Temporal phase use names a criterion and edition.
+[ ] TR0–TR6 labels have declared derivation support.
+[ ] Atemporality, unboundedness, recurrence, and completion are not conflated.
+[ ] Structural–temporal projection order is checked where material.
 [ ] Reconstruction is set-valued unless uniqueness is justified.
 [ ] Phase use names a criterion and edition.
 [ ] Equivalence is valid over the admitted family.
@@ -2116,6 +2637,48 @@ A lower-order projection may illustrate how several sources can produce similar 
 
 **Next move.** State the analogy, preserved structure, lost structure, formal neighbourhood, and empirical stop condition.
 
+### 15.7 Translation workflow as temporal geometry
+
+**Modelled entity.** A translated document and its production history.
+
+**Structural placement.** The current DOCX is a D2/D3 representation and artefact.
+
+**Temporal placement.**
+
+- the current file snapshot is `TD0`;
+- its ordered OCR → translation → revision → QA → delivery history is `TD1`;
+- alternative revision branches or competing translation histories form `TD2`;
+- workflow rules, deadlines, and approval requirements participate at `TD6`;
+- the client instruction and audit frame participate at `TD7`.
+
+The delivered file is a temporal projection of the workflow history:
+
+```text
+πΘ^TD1→TD0(workflowHistory) = deliveredFile
+```
+
+It may preserve the final content while losing intermediate revisions, rejected alternatives, reviewer identity, chronology, unresolved warnings, and evidence that the required QA step occurred.
+
+Two histories may end in byte-identical final files but occupy different temporal phases under an audit criterion:
+
+```text
+h1 = OCR → translation → revision → QA → delivery
+h2 = OCR → translation → delivery
+```
+
+If the inquiry protects only final-file content, `h1 ≈QΘ h2` may hold. If the inquiry protects performance of revision and QA before delivery, `h1 ≉QΘ h2`.
+
+The final file alone therefore may determine the configuration phase while leaving the temporal audit phase indeterminate:
+
+```text
+|PhaseCandidatesQ(finalFile)| = 1
+|TemporalPhaseCandidatesQΘ(finalFile)| > 1
+```
+
+**Next move.** Return to version history, QA records, and delivery evidence before claiming that the required process was completed.
+
+**Blocked overread.** The final document is not its production history.
+
 ---
 
 ## 16. Conformance and Formalisation
@@ -2129,11 +2692,12 @@ A valid ordinary E7G-T claim includes, as applicable:
 3. inquiry or purpose;
 4. operational boundary;
 5. selected route;
-6. relevant projection, transformation, or phase criterion;
-7. preserved and lost structure where a view is involved;
-8. required invariants and tolerated variation where phase use is involved;
-9. support basis and support status for consequential claims;
-10. next move or stop condition.
+6. temporal carrier and temporal boundary where temporal distinctions are material;
+7. relevant configuration or temporal projection, transformation, or phase criterion;
+8. structurally and temporally preserved and lost information where a view is involved;
+9. required invariants and tolerated variation where configuration or temporal phase use is involved;
+10. support basis and support status for consequential claims;
+11. next move or stop condition.
 
 ### 16.2 Reference-analysis conformance
 
@@ -2147,6 +2711,11 @@ A reference analysis additionally includes, when relevant:
 - representative-specific outcomes;
 - relation and invariant effects;
 - phase-view compatibility;
+- temporal-order and causality semantics;
+- temporal projection and reconstruction ambiguity;
+- temporal criterion and edition;
+- temporal-phase view compatibility;
+- structural–temporal projection commute status;
 - reconstruction ambiguity;
 - cross-context bridge;
 - validity window;
@@ -2167,6 +2736,13 @@ A formal implementation MUST settle:
 - viewing descent;
 - reconstruction-fibre semantics;
 - `PhaseCandidatesQ(view)` semantics;
+- temporal carrier, extension, and order-role semantics;
+- temporal viewing and temporal reconstruction-fibre semantics;
+- temporal equivalence validity;
+- `TemporalPhaseCandidatesQΘ(view)` semantics;
+- joint configuration–temporal candidate semantics;
+- clock, recurrence, unboundedness, atemporality, and completion semantics where implemented;
+- structural–temporal projection commute-check semantics;
 - optional overlay definitions;
 - machine-checkable examples and counterexamples.
 
@@ -2213,6 +2789,9 @@ When presenting E7G-T publicly:
 - do not call it established mathematics;
 - do not call it new physics;
 - do not claim D0–D7 are literal physical dimensions;
+- do not claim TD0–TD7 are literal physical time dimensions;
+- do not present a temporal surface or higher temporal role as empirical physics without a defined formal and empirical bridge;
+- do not confuse atemporality, unboundedness, recurrence, and completion;
 - do not claim a holographic reading proves a holographic universe;
 - do not call an E7G-T arrow a morphism unless the category is defined;
 - do not call an E7G-T placement a type judgement unless a type substrate is defined;
@@ -2223,17 +2802,19 @@ When presenting E7G-T publicly:
 
 ### 17.2 Preferred public sentence
 
-> E7G-T helps people inspect representations and changes before relying on them. It asks what a view preserves or loses, which source configurations remain possible, which differences matter for the current purpose, whether a material boundary has been crossed, and what the next responsible move should be.
+> E7G-T helps people inspect representations, histories, and changes before relying on them. It asks what a structural or temporal view preserves or loses, which source configurations and histories remain possible, which differences matter for the current purpose, whether a material boundary has been crossed, and what the next responsible move should be.
 
 ### 17.3 Maturity statement
 
-E7G-T v0.10-UC1 is a unified canonical reference candidate for pilot testing.
+E7G-T v0.11-UC1 is a unified canonical reference candidate with first-class extensional–projective–phase temporal geometry restored for pilot testing.
 
 It is ready for:
 
 - controlled practical pilots;
 - AI-output and source-return review;
 - translation QA experiments;
+- document and software version-history analysis;
+- deadline, recurrence, branch, synchronisation, and temporal audit pilots;
 - dashboard and document-workflow analysis;
 - software representative-dependence tests;
 - proof-path prototypes;
@@ -2255,9 +2836,14 @@ Do not move to v1.0 until:
 
 - shared terminology is stable;
 - all three boundary kinds are used consistently;
-- D7/context and temporal-profile/motif distinctions survive pilot use;
-- extensional–projective and phase routes can be used separately without ambiguity;
+- D7/context and TD7/temporal-context distinctions survive pilot use;
+- TD0–TD7 order roles and TR0–TR6 derived regimes survive pilot use without being treated as physical dimensions;
+- extensional–projective, temporal-geometry, and phase routes can be used separately without ambiguity;
 - the combined `PhaseCandidatesQ(view)` calculus is tested on real cases;
+- `TemporalPhaseCandidatesQΘ(view)` and joint configuration–temporal candidates are tested on real histories;
+- atemporality, unboundedness, recurrence, and completion are distinguished consistently;
+- temporal projection and reconstruction claims are tested against cases with identical endpoints and different histories;
+- structural–temporal projection order is tested on at least one non-commuting workflow;
 - representative-dependence examples are independently reviewed;
 - at least three domain applications are piloted;
 - at least two lightweight worksheets are tested;
@@ -2317,7 +2903,7 @@ This unified candidate proposes to supersede the two predecessor kernels for fut
 | broad transformation arrow | every reference-level arrow has a typed change kind |
 | invariant used ambiguously | transformation invariants and phase-defining invariants are separately declared |
 | projection and viewing used interchangeably | viewing is general entity-preserving representation change; order projection is a subtype |
-| temporal regimes treated only as declarations or only as motifs | declared temporal profiles and derived motifs are distinct |
+| temporal regimes treated as the whole temporal layer | temporal geometry is first-class; TR0–TR6 are derived, non-exclusive profiles |
 | separate practical card families | unified modular profiles with legacy compatibility mappings |
 | projection analysis and phase classification merely adjacent | explicit `PhaseCandidatesQ(view)` combined calculus |
 
@@ -2325,7 +2911,7 @@ This unified candidate proposes to supersede the two predecessor kernels for fut
 
 | Earlier construct | Unified treatment |
 | --- | --- |
-| `X : Dn @ TRi / C` | `X : Dn @ TRi / C ; I`, with inquiry recoverable |
+| `X : Dn @ TRi / C` | `X : Dn [Θ: TDm; TR: {TRi...}] / C ; I`; the legacy form remains readable |
 | `∂X` | model boundary, distinguished from admissibility and phase boundaries |
 | `τT(X)=Y` | compact notation backed by a typed `ChangeRecord` |
 | `ρ(Y)⇒{Xi}` | reconstruction fibre under a declared viewing |
@@ -2337,7 +2923,20 @@ This unified candidate proposes to supersede the two predecessor kernels for fut
 | `PhaseAnalysis` | phase-focused view of `E7-Analysis` |
 | OneLine/MiniCard/FullCard | extensional–projective views of unified profiles |
 
-### 18.6 Regression rule
+### 18.6 Temporal restoration in v0.11
+
+v0.10 retained temporal vocabulary but reduced most temporal content to declared profiles and transition motifs. v0.11 restores the stronger intended architecture:
+
+- time is a first-class modelling carrier rather than an optional label;
+- TD0–TD7 express temporal locality, line, surface, body, world-history, variation, transformation, and context roles;
+- temporal extension, projection, preservation and loss, reconstruction, and inquiry-relative phase are defined explicitly;
+- TR0–TR6 remain useful as derived regime profiles;
+- structural and temporal order are independent;
+- atemporality, unboundedness, recurrence, and completion are distinct;
+- joint configuration–temporal inference is bounded by its reconstruction fibre;
+- structural and temporal projections are checked for non-commutativity.
+
+### 18.7 Regression rule
 
 A unified revision MUST NOT silently change the intended result of a predecessor worked example. If the result changes, the revision MUST identify whether the cause is:
 
@@ -2373,9 +2972,13 @@ Test whether phase-spread analysis prevents health, readiness, or compliance cla
 
 Test whether the unified kernel separates proof object, proof state, tactic path, explanation, and phase of unresolved obligations.
 
-### 19.6 Pilot evaluation question
+### 19.6 Pilot F — Temporal projection and audit phase
 
-> Did the unified kernel catch a material risk, distinguish a hidden change kind, expose a phase-spanning view, or clarify a next responsible move that ordinary review missed?
+Use a versioned translation, document, or software workflow to test whether identical or equivalent final states can arise from histories in different temporal phases, whether the final-state view is temporally phase-spanning, and whether source/history return changes the reliance decision.
+
+### 19.7 Pilot evaluation question
+
+> Did the unified kernel catch a material structural or temporal risk, distinguish a hidden change kind or history, expose a configuration- or temporal-phase-spanning view, or clarify a next responsible move that ordinary review missed?
 
 Do not expand the theory merely because more notation is possible. Expand only where pilot evidence shows a recurring unresolved modelling need.
 
@@ -2481,7 +3084,54 @@ Use empirical protocols to make empirical claims.
 ### Placement
 
 ```text
-X : Dn @ TRi / C ; I
+X : Dn [Θ: TDm; TR: {TRi...}] / C ; I
+```
+
+### Temporal subkernel
+
+```text
+Θ(E,C,I,QΘ)
+  = ⟨Tempadm, ExtΘ, ≺Θ, ΠΘ, ≈QΘ, ΛΘ, H, KΘ, RΘ, BΘ, SΘ⟩
+```
+
+### Temporal extension
+
+```text
+θ ↑Θ n
+```
+
+### Temporal projection
+
+```text
+πΘ^{n→k}(θ) = yΘ
+```
+
+### Temporal reconstruction fibre
+
+```text
+RecΘ,π(yΘ)
+  = { θ ∈ Tempadm | πΘ(θ) ≈VΘ yΘ }
+```
+
+### Temporal phase
+
+```text
+θ ≈QΘ θ′
+[θ]QΘ
+```
+
+### Temporal phase-candidate set
+
+```text
+TemporalPhaseCandidatesQΘ(yΘ)
+  = { [θ]QΘ | θ ∈ RecΘ,π(yΘ) }
+```
+
+### Joint configuration–temporal candidate set
+
+```text
+JointPhaseCandidatesQ,QΘ(v)
+  = { ([Γ]Q,[θ]QΘ) | (Γ,θ) ∈ JointRec(v) }
 ```
 
 ### Model boundary
@@ -2604,8 +3254,32 @@ E7UnifiedRecord:
 
   lenses:
     dRoleProfileRef:
-    temporalProfileRef:
-    temporalMotifRef:
+    temporalOrderRoleProfileRef:
+    derivedTemporalRegimeProfileRef:
+
+  temporalGeometry:
+    applicability:
+    temporalSubkernelRef:
+    temporalCarrierRef:
+    temporalBoundaryRef:
+    temporalOrderRoles: []
+    precedenceOrCausalityRef:
+    clockOrCoordinateRefs: []
+    historyRefs: []
+    temporalExtensionPath:
+    temporalViewingRefs: []
+    temporalProjectionPath:
+    temporallyPreserved: []
+    temporallyHiddenOrLost: []
+    temporalReconstructionFibreRef:
+    temporalPhaseCriterionRef:
+    temporalPhaseCriterionEdition:
+    temporalPhaseCandidateRefs: []
+    temporalPhaseInformationPosture:
+    derivedTemporalRegimes: []
+    extentStatus:
+    recurrenceWitnessRefs: []
+    completionCriterionRef:
 
   projection:
     viewingRef:
@@ -2620,6 +3294,12 @@ E7UnifiedRecord:
     currentPhaseRef:
     phaseCandidateRefs: []
     phaseInformationPosture:
+
+  jointConfigurationTemporal:
+    jointReconstructionFibreRef:
+    jointPhaseCandidateRefs: []
+    jointPhaseInformationPosture:
+    structuralTemporalCommuteCheckRef:
 
   change:
     changeRef:
@@ -2652,8 +3332,8 @@ E7UnifiedRecord:
 
 ## Appendix C — Closing Rule
 
-> Read the shared core for meaning and boundaries. Use the extensional–projective route for construction and representation. Use the operational-phase route for sameness and transition. Use the combined calculus when a view is used to classify or navigate operational status. Route stronger claims to stronger tools. Stop when the source, criterion, evidence, or bridge cannot support the intended use.
+> Read the shared core for meaning and boundaries. Use the extensional–projective route for construction and representation. Use the temporal-geometry route when events, intervals, histories, history-spaces, clocks, recurrence, unboundedness, or temporal views matter. Use the operational-phase route for inquiry-relative sameness and transition. Use the combined calculus when a structural or temporal view is used to classify or navigate operational status. Route stronger claims to stronger tools. Stop when the source, history, criterion, evidence, or bridge cannot support the intended use.
 
 ---
 
-End of **E7G-T Unified Geometry-Thinking Kernel v0.10-UC1**.
+End of **E7G-T Unified Geometry-Thinking Kernel v0.11-UC1**.

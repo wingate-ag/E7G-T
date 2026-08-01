@@ -1,84 +1,101 @@
 # E7G-T
 
 **Unified Geometry-Thinking Kernel**  
-**Extensional–Projective and Inquiry-Relative Operational Phase Calculus**
+**Extensional–Projective–Phase Geometry of Configurations and Time**
 
-E7G-T is a geometry-first modelling language and practical calculus for making **construction, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use** visible.
+E7G-T is a geometry-first modelling language and practical calculus for making **structural and temporal extension, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use** visible.
 
-**Current candidate:** `v0.10-UC1`  
-**Status:** unified canonical reference candidate for practical pilot testing  
-**Authors:** Alexander Gregory Wingate and Oleksandr Razinkov\
 **Public site:** https://e7-g-t.vercel.app/
 
-> What is being modelled, what does the current representation preserve or lose, which differences matter for this inquiry, and what is the next responsible move?
+It helps users inspect representations and histories before relying on them: AI answers, charts, dashboards, translations, proof sketches, legal summaries, models, reports, workflows, version histories, and decision documents.
 
-## What changed in v0.10
+## Public landing page
 
-Earlier E7G-T focused mainly on the geometry of extension and projection: how an object or source becomes a view, what the view preserves, what it loses, and whether reconstruction is justified.
+A static public landing page is available in `site/index.html` for Vercel or any static host.
 
-The unified kernel adds an inquiry-relative operational phase layer:
+---
 
-- which non-identical configurations count as equivalent for the present purpose;
-- which change crosses a material phase boundary;
-- which transitions and paths are admissible;
-- whether operation order matters;
-- whether an abstraction hides representative-dependent outcomes;
-- whether a projected view is sufficient to support phase classification.
+## What changed in v0.11
 
-The result is one modular kernel with two complementary routes:
+**Version:** v0.11-UC1  
+**Status:** unified use-candidate with restored first-class temporal geometry.
 
-```text
-shared constitutional core
-├── extensional–projective route
-├── operational-phase route
-└── combined projection-to-phase route
-```
+The kernel now treats time through the same constitutional disciplines as configurations:
+
+- **temporal extension:** event or temporal locality → interval or history → history family → higher temporal structures;
+- **temporal projection:** a history may be reduced to a snapshot, final state, window, sample, branch, trend, or summary;
+- **temporal preservation and loss:** order, duration, intermediate states, abandoned branches, recurrence, synchronisation, audit path, and clock uncertainty are made explicit;
+- **temporal reconstruction:** the same visible endpoint may remain compatible with several histories;
+- **temporal phase:** non-identical histories may count as equivalent under one inquiry and different under another;
+- **TD0–TD7:** temporal point, line, surface, body, world-history, variation, transformation, and context roles;
+- **TR0–TR6:** retained as derived, non-exclusive temporal-regime profiles rather than the whole temporal layer;
+- **joint inference:** a view may determine configuration phase while leaving temporal phase indeterminate;
+- **non-commutativity:** structural and temporal projections may produce different results when applied in different orders.
+
+The kernel explicitly distinguishes:
+
+- atemporality or timelessness;
+- unbounded temporal extent;
+- recurrence or cyclicity;
+- completion or closure.
+
+These are modelling distinctions, not claims that physical reality has multiple literal time dimensions.
 
 ## Start here
 
-1. [Start Here](docs/START_HERE.md)
-2. [Unified Kernel v0.10-UC1](specs/E7G-T_v0.10_UC1_Unified_Geometry-Thinking_Kernel.md)
-3. [Architecture Overview](docs/ARCHITECTURE.md)
-4. [Migration from v0.9 RC1](docs/MIGRATION_FROM_v0.9.md)
-5. [Combined Representation-to-Phase Worksheet](docs/worksheets/WS-001_Representation_to_Phase_Review.md)
-6. [Unified Pilot Protocol](docs/pilots/PILOT-001_Unified_Projection_Phase_Review.md)
+Read the current v0.11-UC1 unified public reference specification:
+
+`E7G-T_Kernel_v0.11_UC1_Unified_Public_Reference_Specification.md`
 
 ## Route selection
 
 Use the **extensional–projective route** when the main question concerns construction, order-role placement, viewing, projection, preservation, loss, reconstruction, or bridge discipline.
 
+Use the **temporal-geometry route** when events, intervals, histories, alternative histories, temporal slices, clocks, recurrence, deadlines, completion, or temporal reconstruction affect the claim.
+
 Use the **operational-phase route** when the main question concerns operational equivalence, material phase boundaries, typed transitions, path choice, operation order, or representative dependence.
 
-Use the **combined route** when a translation, summary, dashboard, AI answer, measurement, interface, or other view is being used to infer operational status.
+Use the **combined route** when a structural or temporal view is being used to infer operational status.
 
-## Core integration rule
+## Core integration rules
 
-For a view `v`, projection or viewing map `π`, reconstruction fibre `Recπ(v)`, and phase criterion `Q`:
+For a configuration view `v`, projection or viewing map `π`, reconstruction fibre `Recπ(v)`, and phase criterion `Q`:
 
 ```text
-PhaseCandidates_Q(v) = { [Γ]_Q | Γ ∈ Rec_π(v) }
+PhaseCandidatesQ(v) = { [Γ]Q | Γ ∈ Recπ(v) }
 ```
 
-- one supported phase candidate may permit classification;
-- several candidates require abstention, another view, or source return;
-- no admitted candidates require model, boundary, or criterion repair.
+For a temporal view `vΘ`, temporal projection `πΘ`, temporal reconstruction fibre `RecΘ,π(vΘ)`, and temporal-phase criterion `QΘ`:
+
+```text
+TemporalPhaseCandidatesQΘ(vΘ)
+  = { [θ]QΘ | θ ∈ RecΘ,π(vΘ) }
+```
+
+- one supported candidate may permit classification;
+- several candidates require abstention, another view, or source/history return;
+- no admitted candidates require model, boundary, or criterion repair;
+- one configuration phase candidate does not imply one temporal phase or one unique history.
 
 ## Project posture
 
 E7G-T is not established mathematics as a whole, empirical physics, a proof system, a Theory of Everything, an authority decision, or a replacement for mature domain methods.
 
-Its proper role is to frame, inspect, compare, classify, navigate, document, teach, bridge, lint, and route reasoning toward the next responsible move.
+Its proper role is to frame, inspect, compare, classify, navigate, document, teach, bridge, lint, and route reasoning towards the next responsible move.
 
 ## Repository status
 
-The previous v0.9 RC1 materials are retained as historical material under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
+The v0.10 public specification is retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
 ## Current validation priority
 
 Do not expand the theory merely by adding terminology. Test whether the unified kernel changes a real next move.
 
-Recommended first cases:
+Recommended cases:
 
+- identical final document states produced by different audited and unaudited histories;
+- a final-state view that determines configuration phase but spans several temporal phases;
+- structural and temporal projections that fail to commute;
 - AI answer whose source ambiguity spans different reliance phases;
 - translation edit that may preserve wording while changing legal or operational force;
 - dashboard or status display used to infer readiness;
@@ -99,7 +116,7 @@ Except where otherwise noted, the original specifications, documentation, worksh
 
 When reusing or adapting the material:
 
-- credit **Alexander Gregory Wingate** and **Oleksandr Razinkov** as co-creators;
+- credit **Alexander Gregory Wingate** and **Oleksandr Razinkov** as equal co-authors;
 - identify the work as **E7G-T** and link to this repository where reasonably practicable;
 - indicate whether changes were made; and
 - distribute adaptations under CC BY-SA 4.0 or another BY-SA-compatible licence permitted by the licence.
