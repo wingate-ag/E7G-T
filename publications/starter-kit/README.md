@@ -18,4 +18,4 @@ python3 build_starter_kit.py \
   E7G-T_Practical_Starter_Kit.pdf
 ```
 
-The publication is based on the E7G-T v0.10-UC1 unified kernel and is licensed under CC BY-SA 4.0.
+The publication is based on the E7G-T v0.11-UC1 unified kernel and is licensed under CC BY-SA 4.0.

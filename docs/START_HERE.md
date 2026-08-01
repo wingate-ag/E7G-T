@@ -1,4 +1,4 @@
-# Start Here — E7G-T v0.10-UC1
+# Start Here — E7G-T v0.11-UC1
 
 E7G-T now treats two questions as parts of one modelling problem:
 
@@ -74,7 +74,7 @@ Take an AI-generated answer that recommends an action.
 
 ## Read next
 
-- [Unified Kernel](../specs/E7G-T_v0.10_UC1_Unified_Geometry-Thinking_Kernel.md)
+- [Unified Kernel](../E7G-T_Kernel_v0.11_UC1_Unified_Public_Reference_Specification.md)
 - [Architecture Overview](ARCHITECTURE.md)
 - [Migration Guide](MIGRATION_FROM_v0.9.md)
 - [Combined Worksheet](worksheets/WS-001_Representation_to_Phase_Review.md)

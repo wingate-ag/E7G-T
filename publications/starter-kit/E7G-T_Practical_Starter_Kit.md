@@ -3,7 +3,7 @@ title: "E7G-T Practical Starter Kit"
 subtitle: "See what a representation preserves, what it hides, and what to do next"
 edition: "First Edition - July 2026"
 author: "Alexander Gregory Wingate and Oleksandr Razinkov"
-kernel: "E7G-T v0.10-UC1"
+kernel: "E7G-T v0.11-UC1"
 license: "CC BY-SA 4.0"
 ---
 
@@ -431,7 +431,7 @@ For each case, record:
 - Repository: https://github.com/wingate-ag/E7G-T
 - Public site: https://e7-g-t.vercel.app/
 - Books and tools: https://therealitybridge.press/collections/e7g-t-books-tools
-- Active kernel: E7G-T v0.10-UC1
+- Active kernel: E7G-T v0.11-UC1
 
 ## Attribution and licence
 
