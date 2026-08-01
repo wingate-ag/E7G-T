@@ -3,8 +3,8 @@ title: "E7G-T Unified Geometry-Thinking Kernel"
 subtitle: "Extensional–Projective–Phase Geometry of Configurations and Time"
 version: "0.11-UC1"
 date: "2026-07-31"
-author: "Alexander Gregory Wingate"
-copyright: "© 2026 Alexander Gregory Wingate"
+author: "Alexander Gregory Wingate and Oleksandr Razinkov"
+copyright: "© 2026 Alexander Gregory Wingate and Oleksandr Razinkov"
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 status: "Unified canonical reference candidate with restored first-class temporal geometry"
@@ -17,6 +17,12 @@ ai_use: "Load as a modular modelling and reasoning kernel. Apply the shared cons
 # E7G-T Unified Geometry-Thinking Kernel
 
 ## Extensional–Projective–Phase Geometry of Configurations and Time
+
+**Authors:** Alexander Gregory Wingate and Oleksandr Razinkov
+
+**Copyright:** © 2026 Alexander Gregory Wingate and Oleksandr Razinkov
+
+**Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 > **Canonical public definition.** E7G-T is a geometry-first modelling language and practical calculus for making structural and temporal extension, projection, preservation, loss, reconstruction, operational sameness, material boundaries, transition paths, bridge mode, and admissible use visible.
 
