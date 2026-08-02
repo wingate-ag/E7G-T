@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use E7G-T in research or practice, please cite it using the metadata below."
 type: software
 title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective–Phase Geometry of Configurations and Time"
-version: "0.11-UC1"
-date-released: 2026-07-31
+version: "0.11-UC2"
+date-released: 2026-08-02
 authors:
   - family-names: "Wingate"
     given-names: "Alexander Gregory"
@@ -18,12 +18,18 @@ abstract: >-
   reconstruction, operational sameness, material boundaries,
   temporal extension, histories, transition paths, bridge mode,
   and admissible use visible.
+  UC2 additionally provides an informative pilot module for separating
+  observational claims from interpretations and composing observer-indexed
+  observational fields while preserving disagreement, unknowns, and temporal limits.
 keywords:
   - "geometry-first modelling"
   - "projection"
   - "operational phase"
   - "temporal geometry"
   - "history reconstruction"
+  - "observational claims"
+  - "interpretation discipline"
+  - "shared observational fields"
   - "reasoning"
   - "E7G-T"
 preferred-citation:
@@ -35,5 +41,5 @@ preferred-citation:
     - family-names: "Razinkov"
       given-names: "Oleksandr"
   year: 2026
-  version: "0.11-UC1"
+  version: "0.11-UC2"
   url: "https://github.com/wingate-ag/E7G-T"
