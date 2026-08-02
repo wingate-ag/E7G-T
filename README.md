@@ -17,8 +17,8 @@ A static public landing page is available in `site/index.html` for Vercel or any
 
 ## What changed in v0.11
 
-**Version:** v0.11-UC1  
-**Status:** unified use-candidate with restored first-class temporal geometry.
+**Version:** v0.11-UC2  
+**Status:** unified use-candidate with restored first-class temporal geometry and an informative observational-claim pilot module.
 
 The kernel now treats time through the same constitutional disciplines as configurations:
 
@@ -41,11 +41,22 @@ The kernel explicitly distinguishes:
 
 These are modelling distinctions, not claims that physical reality has multiple literal time dimensions.
 
+UC2 also adds an explicitly **informative, pilot-only observational-claim module** that:
+
+- separates observation records, observational claims, and interpretations;
+- requires interpretations to expose their added assumptions, bridge rules, criteria, and limitations;
+- defines inquiry-relative admissible observational fields without equating them with reality or complete ontology;
+- composes shared observational fields as jointly admissible content, unresolved divergence, and relevant unknowns;
+- prevents temporal generalisation beyond the support of the underlying observations unless the extension is separately justified; and
+- supplies pilot linting, conformance, worked examples, and a promotion gate for controlled cross-domain validation.
+
+Ordinary E7G-T conformance does not depend on this module unless it is explicitly invoked. Promotion into the normative constitutional core requires pilot evidence under the kernel's own admission discipline.
+
 ## Start here
 
-Read the current v0.11-UC1 unified public reference specification:
+Read the current v0.11-UC2 unified public reference specification:
 
-`E7G-T_Kernel_v0.11_UC1_Unified_Public_Reference_Specification.md`
+`E7G-T_Kernel_v0.11_UC2_Unified_Public_Reference_Specification.md`
 
 ## Route selection
 
@@ -85,13 +96,17 @@ Its proper role is to frame, inspect, compare, classify, navigate, document, tea
 
 ## Repository status
 
-The v0.10 public specification is retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
+The v0.11-UC1 and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
 ## Current validation priority
 
 Do not expand the theory merely by adding terminology. Test whether the unified kernel changes a real next move.
 
 Recommended cases:
+
+- cases where an observational claim can be cleanly distinguished from a stronger interpretation;
+- multi-observer or multi-instrument cases that must preserve conflict, dependence, and unknowns;
+- claims that improperly generalise beyond the temporal support of their observations;
 
 - identical final document states produced by different audited and unaudited histories;
 - a final-state view that determines configuration phase but spans several temporal phases;
