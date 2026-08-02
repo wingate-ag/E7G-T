@@ -17,8 +17,8 @@ A static public landing page is available in `site/index.html` for Vercel or any
 
 ## What changed in v0.11
 
-**Version:** v0.11-UC2  
-**Status:** unified use-candidate with restored first-class temporal geometry and an informative observational-claim pilot module.
+**Version:** v0.11-UC3  
+**Status:** unified use-candidate with restored first-class temporal geometry and informative observational-claim and temporal-orientation pilot modules.
 
 The kernel now treats time through the same constitutional disciplines as configurations:
 
@@ -52,11 +52,21 @@ UC2 also adds an explicitly **informative, pilot-only observational-claim module
 
 Ordinary E7G-T conformance does not depend on this module unless it is explicitly invoked. Promotion into the normative constitutional core requires pilot evidence under the kernel's own admission discipline.
 
+UC3 adds a separate, explicitly **informative, pilot-only temporal-orientation module** that:
+
+- declares temporal orientation and observer temporal locality;
+- distinguishes reverse viewing or reconstruction from time-reversal symmetry and causal reversal;
+- types clock, sequence, dependency, observational, reconstructive, generative-causal, final-constraint, and global-consistency relations;
+- distinguishes joint membership in a history-whole from clock simultaneity or model-independent physical coexistence; and
+- defines observer-relative history relevance narrowing without treating excluded alternatives as destroyed or nonexistent.
+
+UC3 does not assert that the universe is time-vector-neutral, that later events physically cause earlier events, that supertime exists, or that every alternative history is physically realised. The new vocabulary remains informative pending controlled cross-domain pilots.
+
 ## Start here
 
-Read the current v0.11-UC2 unified public reference specification:
+Read the current v0.11-UC3 unified public reference specification:
 
-`E7G-T_Kernel_v0.11_UC2_Unified_Public_Reference_Specification.md`
+`E7G-T_Kernel_v0.11_UC3_Unified_Public_Reference_Specification.md`
 
 ## Route selection
 
@@ -96,7 +106,7 @@ Its proper role is to frame, inspect, compare, classify, navigate, document, tea
 
 ## Repository status
 
-The v0.11-UC1 and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
+The v0.11-UC2, v0.11-UC1, and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
 ## Current validation priority
 
@@ -104,6 +114,9 @@ Do not expand the theory merely by adding terminology. Test whether the unified 
 
 Recommended cases:
 
+- later-locality reconstructions that must not be mistaken for reversed physical causation;
+- history-whole descriptions that must not be mistaken for clock simultaneity;
+- branching histories whose observer-relative relevance changes as records accumulate or are corrected;
 - cases where an observational claim can be cleanly distinguished from a stronger interpretation;
 - multi-observer or multi-instrument cases that must preserve conflict, dependence, and unknowns;
 - claims that improperly generalise beyond the temporal support of their observations;
