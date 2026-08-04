@@ -1093,6 +1093,8 @@ Completion MUST be defined by a closure or stop criterion. It is not inferred me
 
 A **temporal orientation** is the declared direction from which a temporal structure is viewed, traversed, narrated, or reconstructed relative to its admitted order carrier.
 
+**Extension–orientation separability.** Temporal extension, admitted temporal order, representational orientation, and directional meaning are distinct modelling ingredients. `ExtΘ` constructs or admits temporal extension. `≺Θ` records whatever ordering relation is declared. Orientation selects a direction of viewing, traversal, narration, or reconstruction relative to that structure. Neither extension alone nor a chosen representational orientation establishes causation, admissible evolution, or a physical arrow of time.
+
 For a history:
 
 ```text
@@ -2747,6 +2749,8 @@ An unavoidable trade-off requires a named mechanism and declared scale. Poor imp
 
 > **Informative pending pilot validation.** The following candidate laws apply only when §§5.13.1–5.13.6 are explicitly invoked.
 
+**Candidate Law T0 — Extension does not entail orientation.** Admitting the localities and extension structure of a temporal interval, path, or history does not by itself select a representational orientation or assign meaning to a direction. Extension, order, orientation, and directional semantics MUST NOT be silently collapsed.
+
 **Candidate Law T1 — Orientation is declared.** A reversed view or reconstruction is an orientation choice, not evidence that the governing dynamics or causal order reverse.
 
 **Candidate Law T2 — Observer locality is not event chronology.** The fact first available or first used in reconstruction need not be first under the declared clock or sequence.
@@ -2897,6 +2901,7 @@ When §§5.13.1–5.13.6 are invoked, the pilot analysis SHOULD additionally pas
 
 ```text
 [ ] Temporal orientation and observer locality are declared.
+[ ] Temporal extension, admitted order, chosen orientation, and directional semantics are distinguished where material.
 [ ] Clock, sequence, dependency, observation, reconstruction, causation, final constraint, and global consistency relations are typed where material.
 [ ] Reverse representation is distinguished from time-reversal symmetry.
 [ ] Reverse observation or reconstruction is not treated as causal reversal without a supporting substrate and evidence.
@@ -3357,7 +3362,7 @@ When presenting E7G-T publicly:
 
 ### 17.3 Maturity statement
 
-E7G-T v0.11-UC2 is a unified canonical reference candidate with first-class extensional–projective–phase temporal geometry restored for pilot testing and an informative observational-claim module added for controlled cross-domain validation.
+E7G-T v0.11-UC3 is a unified canonical reference candidate with first-class extensional–projective–phase temporal geometry restored for pilot testing and informative observational-claim and temporal-orientation modules added for controlled cross-domain validation.
 
 It is ready for:
 
@@ -3507,6 +3512,7 @@ This addition does not yet assert that observation is a new normative primitive.
 
 UC3 preserves the normative core and UC2 observational-claim pilot module, and adds a labelled informative temporal module that:
 
+- makes explicit the separability of temporal extension, admitted order, representational orientation, and directional meaning;
 - declares temporal orientation and observer temporal locality;
 - separates viewpoint reversal, time-reversal symmetry, and causal reversal;
 - types observational and reconstructive precedence, generative causation, final constraint, and global consistency;
