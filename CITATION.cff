@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use E7G-T in research or practice, please cite it using the metadata below."
 type: software
 title: "E7G-T Unified Geometry-Thinking Kernel: Extensional–Projective–Phase Geometry of Configurations and Time"
-version: "0.11-UC3"
-date-released: 2026-08-02
+version: "0.11-UC4"
+date-released: 2026-08-05
 authors:
   - family-names: "Wingate"
     given-names: "Alexander Gregory"
@@ -24,6 +24,9 @@ abstract: >-
   UC3 additionally provides an informative temporal-orientation module that separates
   reverse reconstruction from time-reversal symmetry and causal reversal, distinguishes
   history-whole membership from simultaneity, and models observer-relative history relevance.
+  UC4 additionally provides an informative topological-overlay module that separates
+  operational adjacency and phase boundaries from topological notions, supports declared
+  quotient topologies, and keeps topology distinct from metric, order, orientation, and causation.
 keywords:
   - "geometry-first modelling"
   - "projection"
@@ -36,6 +39,9 @@ keywords:
   - "temporal orientation"
   - "observer locality"
   - "history relevance"
+  - "topological overlay"
+  - "quotient topology"
+  - "topology and orientation"
   - "reasoning"
   - "E7G-T"
 preferred-citation:
@@ -47,5 +53,5 @@ preferred-citation:
     - family-names: "Razinkov"
       given-names: "Oleksandr"
   year: 2026
-  version: "0.11-UC3"
+  version: "0.11-UC4"
   url: "https://github.com/wingate-ag/E7G-T"
