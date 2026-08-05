@@ -17,8 +17,8 @@ A static public landing page is available in `site/index.html` for Vercel or any
 
 ## What changed in v0.11
 
-**Version:** v0.11-UC3  
-**Status:** unified use-candidate with restored first-class temporal geometry and informative observational-claim and temporal-orientation pilot modules.
+**Version:** v0.11-UC4  
+**Status:** unified use-candidate with restored first-class temporal geometry and informative observational-claim, temporal-orientation, and topological-overlay pilot modules.
 
 The kernel now treats time through the same constitutional disciplines as configurations:
 
@@ -62,11 +62,21 @@ UC3 adds a separate, explicitly **informative, pilot-only temporal-orientation m
 
 UC3 does not assert that the universe is time-vector-neutral, that later events physically cause earlier events, that supertime exists, or that every alternative history is physically realised. The new vocabulary remains informative pending controlled cross-domain pilots.
 
+UC4 adds a separate, explicitly **informative, pilot-only topological overlay** that:
+
+- allows a declared configuration, phase-quotient, temporal, or history carrier to be equipped with a declared topology when the inquiry warrants it;
+- separates operational adjacency from topological neighbourhood and phase boundaries from topological boundaries;
+- requires continuity, homeomorphism, quotient-topology, connectedness, path, and gluing claims to satisfy their own mathematical conditions;
+- keeps topology distinct from metric, order, orientation, and causation; and
+- makes explicit that a temporal carrier may preserve its topology under orientation reversal without implying physical time reversal or causal reversal.
+
+E7G-T is not redefined as a topological theory. The overlay remains optional and informative pending Pilot I and its promotion gate.
+
 ## Start here
 
-Read the current v0.11-UC3 unified public reference specification:
+Read the current v0.11-UC4 unified public reference specification:
 
-`E7G-T_Kernel_v0.11_UC3_Unified_Public_Reference_Specification.md`
+`E7G-T_Kernel_v0.11_UC4_Unified_Public_Reference_Specification.md`
 
 ## Route selection
 
@@ -106,7 +116,7 @@ Its proper role is to frame, inspect, compare, classify, navigate, document, tea
 
 ## Repository status
 
-The v0.11-UC2, v0.11-UC1, and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
+The v0.11-UC3, v0.11-UC2, v0.11-UC1, and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
 ## Current validation priority
 
@@ -114,6 +124,8 @@ Do not expand the theory merely by adding terminology. Test whether the unified 
 
 Recommended cases:
 
+- declared-topology cases that test whether operational adjacency and topological neighbourhood lead to different conclusions;
+- phase-quotient and temporal-carrier cases that test connectedness, continuity, quotient structure, and topology/orientation separation;
 - later-locality reconstructions that must not be mistaken for reversed physical causation;
 - history-whole descriptions that must not be mistaken for clock simultaneity;
 - branching histories whose observer-relative relevance changes as records accumulate or are corrected;
