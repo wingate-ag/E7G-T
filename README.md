@@ -17,8 +17,9 @@ A static public landing page is available in `site/index.html` for Vercel or any
 
 ## What changed in v0.11
 
-**Version:** v0.11-UC4  
-**Status:** unified use-candidate with restored first-class temporal geometry and informative observational-claim, temporal-orientation, and topological-overlay pilot modules.
+**Version:** v0.11-UC5
+
+**Status:** unified use-candidate with restored first-class temporal geometry and informative observational-claim, temporal-orientation, topological-overlay, and relative-support pilot modules.
 
 The kernel now treats time through the same constitutional disciplines as configurations:
 
@@ -72,11 +73,13 @@ UC4 adds a separate, explicitly **informative, pilot-only topological overlay** 
 
 E7G-T is not redefined as a topological theory. The overlay remains optional and informative pending Pilot I and its promotion gate.
 
+UC5 adds an **informative, pilot-only relative-support module**. Support remains relative to the declared inquiry, context, evidence, assumptions and temporal scope. The module does not turn a support assessment into truth, authority or a universal trust score; its own pilot and promotion conditions remain applicable.
+
 ## Start here
 
-Read the current v0.11-UC4 unified public reference specification:
+Read the current v0.11-UC5 unified public reference specification:
 
-`E7G-T_Kernel_v0.11_UC4_Unified_Public_Reference_Specification.md`
+[E7G-T Kernel v0.11-UC5](E7G-T_Kernel_v0.11_UC5_Unified_Public_Reference_Specification.md)
 
 ## Route selection
 
@@ -116,7 +119,7 @@ Its proper role is to frame, inspect, compare, classify, navigate, document, tea
 
 ## Repository status
 
-The v0.11-UC3, v0.11-UC2, v0.11-UC1, and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
+The v0.11-UC4, v0.11-UC3, v0.11-UC2, v0.11-UC1, and v0.10 public specifications are retained as predecessor material. The previous v0.9 RC1 materials remain under [`release_0.9RC1/`](release_0.9RC1/) and are no longer the active specification. See [Legacy Materials](legacy/README.md).
 
 ## Current validation priority
 

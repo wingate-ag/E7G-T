@@ -3801,7 +3801,7 @@ When presenting E7G-T publicly:
 
 ### 17.3 Maturity statement
 
-E7G-T v0.11-UC4 is a unified canonical reference candidate with first-class extensional–projective–phase temporal geometry restored for pilot testing and informative observational-claim, temporal-orientation, and topological-overlay modules added for controlled cross-domain validation.
+E7G-T v0.11-UC5 is a unified canonical reference candidate with first-class extensional–projective–phase temporal geometry restored for pilot testing and informative observational-claim, temporal-orientation, topological-overlay, and relative-support modules added for controlled cross-domain validation.
 
 It is ready for:
 
@@ -4715,4 +4715,4 @@ E7UnifiedRecord:
 
 ---
 
-End of **E7G-T Unified Geometry-Thinking Kernel v0.11-UC4**.
+End of **E7G-T Unified Geometry-Thinking Kernel v0.11-UC5**.
